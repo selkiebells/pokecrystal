@@ -81,7 +81,7 @@ PokemonNames::
 	db "Slowbro@@@"
 	db "Magnemite@"
 	db "Magneton@@"
-	db "Farfetch'd"
+	db "Farfetch'd@" ;extra char as 'd is one
 	db "Doduo@@@@@"
 	db "Dodrio@@@@"
 	db "Seel@@@@@@"
@@ -150,7 +150,7 @@ PokemonNames::
 	db "Dragonite@"
 	db "Mewtwo@@@@"
 	db "Mew@@@@@@@"
-	db "Chikorita@"
+	db "Chikorita@" 
 	db "Bayleef@@@"
 	db "Meganium@@"
 	db "Cyndaquil@"
