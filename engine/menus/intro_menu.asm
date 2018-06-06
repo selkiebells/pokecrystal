@@ -31,17 +31,17 @@ PrintDayOfWeek: ; 5b05
 ; 5b1c
 
 .Days: ; 5b1c
-	db "SUN@"
-	db "MON@"
-	db "TUES@"
-	db "WEDNES@"
-	db "THURS@"
-	db "FRI@"
-	db "SATUR@"
+	db "Sun@"
+	db "Mon@"
+	db "Tues@"
+	db "Wednes@"
+	db "Thurs@"
+	db "Fri@"
+	db "Satur@"
 ; 5b40
 
 .Day: ; 5b40
-	db "DAY@"
+	db "day@"
 ; 5b44
 
 NewGame_ClearTileMapEtc: ; 5b44
@@ -309,9 +309,9 @@ InitializeNPCNames: ; 5ce9
 	ret
 
 .Rival:  db "???@"
-.Red:    db "RED@"
-.Green:  db "GREEN@"
-.Mom:    db "MOM@"
+.Red:    db "Red@"
+.Green:  db "Green"
+.Mom:    db "Mom@"
 ; 5d23
 
 InitializeWorld: ; 5d23

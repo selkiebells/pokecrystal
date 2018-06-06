@@ -32,5 +32,5 @@ _DeleteSaveData: ; 4d54c
 .MenuData: ; 0x4d58d
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 2 ; items
-	db "NO@"
-	db "YES@"
+	db "No@"
+	db "Yes@"

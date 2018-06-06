@@ -195,15 +195,15 @@ StartMenu:: ; 125cd
 	dw StartMenu_Pokegear, .PokegearString, .PokegearDesc
 	dw StartMenu_Quit,     .QuitString,     .QuitDesc
 
-.PokedexString:  db "#DEX@"
-.PartyString:    db "#MON@"
-.PackString:     db "PACK@"
+.PokedexString:  db "#dex@"
+.PartyString:    db "#mon@"
+.PackString:     db "Pack@"
 .StatusString:   db "<PLAYER>@"
-.SaveString:     db "SAVE@"
-.OptionString:   db "OPTION@"
-.ExitString:     db "EXIT@"
-.PokegearString: db "<POKE>GEAR@"
-.QuitString:     db "QUIT@"
+.SaveString:     db "Save@"
+.OptionString:   db "Option@"
+.ExitString:     db "Exit@"
+.PokegearString: db "<POKE>gear@"
+.QuitString:     db "Quit@"
 
 .PokedexDesc:
 	db   "#MON"
@@ -1005,8 +1005,8 @@ GiveTakeItemMenuData: ; 12c9b
 .Items:
 	db STATICMENU_CURSOR ; flags
 	db 2 ; # items
-	db "GIVE@"
-	db "TAKE@"
+	db "Give@"
+	db "Take@"
 ; 12caf
 
 
@@ -1194,9 +1194,9 @@ MonMailAction: ; 12d45
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 3 ; items
-	db "READ@"
-	db "TAKE@"
-	db "QUIT@"
+	db "Read@"
+	db "Take@"
+	db "Quit@"
 ; 0x12de2
 
 
@@ -1915,10 +1915,10 @@ String_MoveType_Top: ; 132ba
 	db "┌─────┐@"
 ; 132c2
 String_MoveType_Bottom: ; 132c2
-	db "│TYPE/└@"
+	db "│Type/└@"
 ; 132ca
 String_MoveAtk: ; 132ca
-	db "ATK/@"
+	db "Atk/@"
 ; 132cf
 String_MoveNoPower: ; 132cf
 	db "---@"
