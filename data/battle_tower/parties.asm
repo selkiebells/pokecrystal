@@ -28,7 +28,7 @@ BattleTowerMons1:
 	bigdw 37 ; Spd
 	bigdw 34 ; SAtk
 	bigdw 31 ; SDef
-	db "SANDA-SU@@@"
+	db "Sanda-SU@@@"
 
 
 	db ESPEON
@@ -82,7 +82,7 @@ BattleTowerMons1:
 	bigdw 26 ; Spd
 	bigdw 25 ; SAtk
 	bigdw 39 ; SDef
-	db "BURAtuKI-@@"
+	db "BuratuKI-@@"
 
 
 	db WOBBUFFET
@@ -109,7 +109,7 @@ BattleTowerMons1:
 	bigdw 19 ; Spd
 	bigdw 18 ; SAtk
 	bigdw 23 ; SDef
-	db "SO-NANSU@@@"
+	db "SO-Nansu@@@"
 
 
 	db KANGASKHAN
@@ -136,7 +136,7 @@ BattleTowerMons1:
 	bigdw 29 ; Spd
 	bigdw 20 ; SAtk
 	bigdw 28 ; SDef
-	db "GARU-RA@@@@"
+	db "Garu-RA@@@@"
 
 
 	db CORSOLA
@@ -163,7 +163,7 @@ BattleTowerMons1:
 	bigdw 19 ; Spd
 	bigdw 24 ; SAtk
 	bigdw 28 ; SDef
-	db "SANI-GO@@@@"
+	db "Sani-GO@@@@"
 
 
 	db MILTANK
@@ -190,7 +190,7 @@ BattleTowerMons1:
 	bigdw 31 ; Spd
 	bigdw 20 ; SAtk
 	bigdw 26 ; SDef
-	db "MIRUTANKU@@"
+	db "Mirutanku@@"
 
 
 	db AERODACTYL
@@ -217,7 +217,7 @@ BattleTowerMons1:
 	bigdw 38 ; Spd
 	bigdw 23 ; SAtk
 	bigdw 26 ; SDef
-	db "PUTERA@@@@@"
+	db "Putera@@@@@"
 
 
 	db LAPRAS
@@ -244,7 +244,7 @@ BattleTowerMons1:
 	bigdw 24 ; Spd
 	bigdw 28 ; SAtk
 	bigdw 30 ; SDef
-	db "RAPURASU@@@"
+	db "Rapurasu@@@"
 
 
 	db SNEASEL
@@ -298,7 +298,7 @@ BattleTowerMons1:
 	bigdw 23 ; Spd
 	bigdw 33 ; SAtk
 	bigdw 31 ; SDef
-	db "PORIGON2@@@"
+	db "Porigon2@@@"
 
 
 	db MISDREAVUS
@@ -325,7 +325,7 @@ BattleTowerMons1:
 	bigdw 28 ; Spd
 	bigdw 29 ; SAtk
 	bigdw 29 ; SDef
-	db "MUUMA@@@@@@"
+	db "Muuma@@@@@@"
 
 
 	db HOUNDOUR
@@ -352,7 +352,7 @@ BattleTowerMons1:
 	bigdw 25 ; Spd
 	bigdw 28 ; SAtk
 	bigdw 22 ; SDef
-	db "DERUBIRU@@@"
+	db "Derubiru@@@"
 
 
 	db GIRAFARIG
@@ -379,7 +379,7 @@ BattleTowerMons1:
 	bigdw 29 ; Spd
 	bigdw 29 ; SAtk
 	bigdw 24 ; SDef
-	db "KIRINRIKI@@"
+	db "Kirinriki@@"
 
 
 	db BLISSEY
@@ -406,7 +406,7 @@ BattleTowerMons1:
 	bigdw 22 ; Spd
 	bigdw 27 ; SAtk
 	bigdw 39 ; SDef
-	db "HAPINASU@@@"
+	db "Hapinasu@@@"
 
 
 	db SNORLAX
@@ -433,7 +433,7 @@ BattleTowerMons1:
 	bigdw 18 ; Spd
 	bigdw 23 ; SAtk
 	bigdw 32 ; SDef
-	db "KABIGON@@@@"
+	db "Kabigon@@@@"
 
 
 	db EXEGGUTOR
@@ -487,7 +487,7 @@ BattleTowerMons1:
 	bigdw 29 ; Spd
 	bigdw 18 ; SAtk
 	bigdw 29 ; SDef
-	db "HERAKUROSU@"
+	db "Herakurosu@"
 
 
 	db UNOWN
@@ -514,7 +514,7 @@ BattleTowerMons1:
 	bigdw 21 ; Spd
 	bigdw 26 ; SAtk
 	bigdw 21 ; SDef
-	db "ANNO-N@@@@@"
+	db "Anno-N@@@@@"
 
 
 	db TAUROS
@@ -541,7 +541,7 @@ BattleTowerMons1:
 	bigdw 32 ; Spd
 	bigdw 18 ; SAtk
 	bigdw 24 ; SDef
-	db "KENTAROSU@@"
+	db "Kentarosu@@"
 
 
 	db MR__MIME
@@ -568,7 +568,7 @@ BattleTowerMons1:
 	bigdw 28 ; Spd
 	bigdw 30 ; SAtk
 	bigdw 34 ; SDef
-	db "BARIYA-DO@@"
+	db "Bariya-DO@@"
 
 
 
@@ -599,7 +599,7 @@ BattleTowerMons2:
 	bigdw 46 ; Spd
 	bigdw 44 ; SAtk
 	bigdw 72 ; SDef
-	db "BURAtuKI-@@"
+	db "BuratuKI-@@"
 
 
 	db STARMIE
@@ -626,7 +626,7 @@ BattleTowerMons2:
 	bigdw 67 ; Spd
 	bigdw 60 ; SAtk
 	bigdw 54 ; SDef
-	db "SUTA-MI-@@@"
+	db "Suta-MI-@@@"
 
 
 	db GYARADOS
@@ -653,7 +653,7 @@ BattleTowerMons2:
 	bigdw 54 ; Spd
 	bigdw 45 ; SAtk
 	bigdw 61 ; SDef
-	db "GIyaRADOSU@"
+	db "GIyaRadosu@"
 
 
 	db STEELIX
@@ -680,7 +680,7 @@ BattleTowerMons2:
 	bigdw 31 ; Spd
 	bigdw 44 ; SAtk
 	bigdw 48 ; SDef
-	db "HAGANE-RU@@"
+	db "Hagane-RU@@"
 
 
 	db ALAKAZAM
@@ -734,7 +734,7 @@ BattleTowerMons2:
 	bigdw 60 ; Spd
 	bigdw 60 ; SAtk
 	bigdw 52 ; SDef
-	db "UINDEi@@@@@"
+	db "Uindei@@@@@"
 
 
 	db HERACROSS
@@ -761,7 +761,7 @@ BattleTowerMons2:
 	bigdw 52 ; Spd
 	bigdw 37 ; SAtk
 	bigdw 59 ; SDef
-	db "HERAKUROSU@"
+	db "Herakurosu@"
 
 
 	db EXEGGUTOR
@@ -815,7 +815,7 @@ BattleTowerMons2:
 	bigdw 72 ; Spd
 	bigdw 44 ; SAtk
 	bigdw 50 ; SDef
-	db "PUTERA@@@@@"
+	db "Putera@@@@@"
 
 
 	db BLISSEY
@@ -842,7 +842,7 @@ BattleTowerMons2:
 	bigdw 41 ; Spd
 	bigdw 51 ; SAtk
 	bigdw 75 ; SDef
-	db "HAPINASU@@@"
+	db "Hapinasu@@@"
 
 
 	db LAPRAS
@@ -869,7 +869,7 @@ BattleTowerMons2:
 	bigdw 45 ; Spd
 	bigdw 50 ; SAtk
 	bigdw 54 ; SDef
-	db "RAPURASU@@@"
+	db "Rapurasu@@@"
 
 
 	db PIKACHU
@@ -896,7 +896,7 @@ BattleTowerMons2:
 	bigdw 58 ; Spd
 	bigdw 41 ; SAtk
 	bigdw 37 ; SDef
-	db "PIKATIyuU@@"
+	db "PikatiyuU@@"
 
 
 	db SCIZOR
@@ -923,7 +923,7 @@ BattleTowerMons2:
 	bigdw 47 ; Spd
 	bigdw 43 ; SAtk
 	bigdw 53 ; SDef
-	db "HAtuSAMU@@@"
+	db "HAtuSamu@@@"
 
 
 	db HITMONCHAN
@@ -950,7 +950,7 @@ BattleTowerMons2:
 	bigdw 52 ; Spd
 	bigdw 32 ; SAtk
 	bigdw 62 ; SDef
-	db "EBIWARA-@@@"
+	db "Ebiwara-@@@"
 
 
 	db TAUROS
@@ -977,7 +977,7 @@ BattleTowerMons2:
 	bigdw 63 ; Spd
 	bigdw 35 ; SAtk
 	bigdw 47 ; SDef
-	db "KENTAROSU@@"
+	db "Kentarosu@@"
 
 
 	db AZUMARILL
@@ -1004,7 +1004,7 @@ BattleTowerMons2:
 	bigdw 41 ; Spd
 	bigdw 37 ; SAtk
 	bigdw 49 ; SDef
-	db "MARIRURI@@@"
+	db "Mariruri@@@"
 
 
 	db MILTANK
@@ -1031,7 +1031,7 @@ BattleTowerMons2:
 	bigdw 61 ; Spd
 	bigdw 36 ; SAtk
 	bigdw 48 ; SDef
-	db "MIRUTANKU@@"
+	db "Mirutanku@@"
 
 
 	db WIGGLYTUFF
@@ -1058,7 +1058,7 @@ BattleTowerMons2:
 	bigdw 39 ; Spd
 	bigdw 50 ; SAtk
 	bigdw 40 ; SDef
-	db "PUKURIN@@@@"
+	db "Pukurin@@@@"
 
 
 	db WIGGLYTUFF
@@ -1085,7 +1085,7 @@ BattleTowerMons2:
 	bigdw 34 ; Spd
 	bigdw 46 ; SAtk
 	bigdw 36 ; SDef
-	db "PUKURIN@@@@"
+	db "Pukurin@@@@"
 
 
 	db NIDOKING
@@ -1112,7 +1112,7 @@ BattleTowerMons2:
 	bigdw 49 ; Spd
 	bigdw 50 ; SAtk
 	bigdw 46 ; SDef
-	db "NIDOKINGU@@"
+	db "Nidokingu@@"
 
 
 	db QUAGSIRE
@@ -1139,7 +1139,7 @@ BattleTowerMons2:
 	bigdw 29 ; Spd
 	bigdw 42 ; SAtk
 	bigdw 42 ; SDef
-	db "NUO-@@@@@@@"
+	db "Nuo-@@@@@@@"
 
 
 
@@ -1170,7 +1170,7 @@ BattleTowerMons3:
 	bigdw 107 ; Spd
 	bigdw 96 ; SAtk
 	bigdw 87 ; SDef
-	db "SANDA-SU@@@"
+	db "Sanda-SU@@@"
 
 
 	db POLIWRATH
@@ -1197,7 +1197,7 @@ BattleTowerMons3:
 	bigdw 73 ; Spd
 	bigdw 70 ; SAtk
 	bigdw 82 ; SDef
-	db "NIyoROBON@@"
+	db "NIyoRobon@@"
 
 
 	db STARMIE
@@ -1224,7 +1224,7 @@ BattleTowerMons3:
 	bigdw 99 ; Spd
 	bigdw 90 ; SAtk
 	bigdw 81 ; SDef
-	db "SUTA-MI-@@@"
+	db "Suta-MI-@@@"
 
 
 	db JYNX
@@ -1278,7 +1278,7 @@ BattleTowerMons3:
 	bigdw 102 ; Spd
 	bigdw 60 ; SAtk
 	bigdw 72 ; SDef
-	db "DAGUTORIO@@"
+	db "Dagutorio@@"
 
 
 	db BELLOSSOM
@@ -1305,7 +1305,7 @@ BattleTowerMons3:
 	bigdw 60 ; Spd
 	bigdw 82 ; SAtk
 	bigdw 88 ; SDef
-	db "KIREIHANA@@"
+	db "Kireihana@@"
 
 
 	db BLISSEY
@@ -1332,7 +1332,7 @@ BattleTowerMons3:
 	bigdw 59 ; Spd
 	bigdw 73 ; SAtk
 	bigdw 109 ; SDef
-	db "HAPINASU@@@"
+	db "Hapinasu@@@"
 
 
 	db HOUNDOOM
@@ -1359,7 +1359,7 @@ BattleTowerMons3:
 	bigdw 86 ; Spd
 	bigdw 94 ; SAtk
 	bigdw 76 ; SDef
-	db "HERUGA-@@@@"
+	db "Heruga-@@@@"
 
 
 	db MACHAMP
@@ -1386,7 +1386,7 @@ BattleTowerMons3:
 	bigdw 61 ; Spd
 	bigdw 68 ; SAtk
 	bigdw 80 ; SDef
-	db "KAIRIKI-@@@"
+	db "Kairiki-@@@"
 
 
 	db CROBAT
@@ -1413,7 +1413,7 @@ BattleTowerMons3:
 	bigdw 103 ; Spd
 	bigdw 70 ; SAtk
 	bigdw 76 ; SDef
-	db "KUROBAtuTO@"
+	db "KurobatuTO@"
 
 
 	db PORYGON2
@@ -1440,7 +1440,7 @@ BattleTowerMons3:
 	bigdw 66 ; Spd
 	bigdw 87 ; SAtk
 	bigdw 81 ; SDef
-	db "PORIGON2@@@"
+	db "Porigon2@@@"
 
 
 	db MAROWAK
@@ -1467,7 +1467,7 @@ BattleTowerMons3:
 	bigdw 56 ; Spd
 	bigdw 54 ; SAtk
 	bigdw 72 ; SDef
-	db "GARAGARA@@@"
+	db "Garagara@@@"
 
 
 	db ELECTRODE
@@ -1494,7 +1494,7 @@ BattleTowerMons3:
 	bigdw 113 ; Spd
 	bigdw 78 ; SAtk
 	bigdw 78 ; SDef
-	db "MARUMAIN@@@"
+	db "Marumain@@@"
 
 
 	db LAPRAS
@@ -1521,7 +1521,7 @@ BattleTowerMons3:
 	bigdw 65 ; Spd
 	bigdw 75 ; SAtk
 	bigdw 81 ; SDef
-	db "RAPURASU@@@"
+	db "Rapurasu@@@"
 
 
 	db LANTURN
@@ -1548,7 +1548,7 @@ BattleTowerMons3:
 	bigdw 66 ; Spd
 	bigdw 70 ; SAtk
 	bigdw 70 ; SDef
-	db "RANTA-N@@@@"
+	db "Ranta-N@@@@"
 
 
 	db ESPEON
@@ -1602,7 +1602,7 @@ BattleTowerMons3:
 	bigdw 90 ; Spd
 	bigdw 77 ; SAtk
 	bigdw 101 ; SDef
-	db "DOKUKURAGE@"
+	db "Dokukurage@"
 
 
 	db GENGAR
@@ -1629,7 +1629,7 @@ BattleTowerMons3:
 	bigdw 96 ; Spd
 	bigdw 103 ; SAtk
 	bigdw 70 ; SDef
-	db "GENGA-@@@@@"
+	db "Genga-@@@@@"
 
 
 	db URSARING
@@ -1656,7 +1656,7 @@ BattleTowerMons3:
 	bigdw 53 ; Spd
 	bigdw 65 ; SAtk
 	bigdw 65 ; SDef
-	db "RINGUMA@@@@"
+	db "Ringuma@@@@"
 
 
 	db FEAROW
@@ -1683,7 +1683,7 @@ BattleTowerMons3:
 	bigdw 82 ; Spd
 	bigdw 58 ; SAtk
 	bigdw 58 ; SDef
-	db "ONIDORIRU@@"
+	db "Onidoriru@@"
 
 
 	db PRIMEAPE
@@ -1710,7 +1710,7 @@ BattleTowerMons3:
 	bigdw 78 ; Spd
 	bigdw 58 ; SAtk
 	bigdw 64 ; SDef
-	db "OKORIZARU@@"
+	db "Okorizaru@@"
 
 
 
@@ -1741,7 +1741,7 @@ BattleTowerMons4:
 	bigdw 127 ; Spd
 	bigdw 70 ; SAtk
 	bigdw 94 ; SDef
-	db "KENTAROSU@@"
+	db "Kentarosu@@"
 
 
 	db KINGDRA
@@ -1768,7 +1768,7 @@ BattleTowerMons4:
 	bigdw 106 ; Spd
 	bigdw 115 ; SAtk
 	bigdw 115 ; SDef
-	db "KINGUDORA@@"
+	db "Kingudora@@"
 
 
 	db SNORLAX
@@ -1795,7 +1795,7 @@ BattleTowerMons4:
 	bigdw 61 ; Spd
 	bigdw 89 ; SAtk
 	bigdw 125 ; SDef
-	db "KABIGON@@@@"
+	db "Kabigon@@@@"
 
 
 	db LAPRAS
@@ -1822,7 +1822,7 @@ BattleTowerMons4:
 	bigdw 86 ; Spd
 	bigdw 103 ; SAtk
 	bigdw 111 ; SDef
-	db "RAPURASU@@@"
+	db "Rapurasu@@@"
 
 
 	db STEELIX
@@ -1849,7 +1849,7 @@ BattleTowerMons4:
 	bigdw 61 ; Spd
 	bigdw 79 ; SAtk
 	bigdw 87 ; SDef
-	db "HAGANE-RU@@"
+	db "Hagane-RU@@"
 
 
 	db ALAKAZAM
@@ -1903,7 +1903,7 @@ BattleTowerMons4:
 	bigdw 127 ; Spd
 	bigdw 117 ; SAtk
 	bigdw 105 ; SDef
-	db "SUTA-MI-@@@"
+	db "Suta-MI-@@@"
 
 
 	db WOBBUFFET
@@ -1930,7 +1930,7 @@ BattleTowerMons4:
 	bigdw 64 ; Spd
 	bigdw 59 ; SAtk
 	bigdw 79 ; SDef
-	db "SO-NANSU@@@"
+	db "SO-Nansu@@@"
 
 
 	db GOLEM
@@ -1957,7 +1957,7 @@ BattleTowerMons4:
 	bigdw 74 ; Spd
 	bigdw 80 ; SAtk
 	bigdw 88 ; SDef
-	db "GORO-NIya@@"
+	db "Goro-NIya@@"
 
 
 	db SCIZOR
@@ -1984,7 +1984,7 @@ BattleTowerMons4:
 	bigdw 89 ; Spd
 	bigdw 82 ; SAtk
 	bigdw 102 ; SDef
-	db "HAtuSAMU@@@"
+	db "HAtuSamu@@@"
 
 
 	db DUGTRIO
@@ -2011,7 +2011,7 @@ BattleTowerMons4:
 	bigdw 131 ; Spd
 	bigdw 75 ; SAtk
 	bigdw 91 ; SDef
-	db "DAGUTORIO@@"
+	db "Dagutorio@@"
 
 
 	db SLOWBRO
@@ -2038,7 +2038,7 @@ BattleTowerMons4:
 	bigdw 60 ; Spd
 	bigdw 119 ; SAtk
 	bigdw 103 ; SDef
-	db "YADORAN@@@@"
+	db "Yadoran@@@@"
 
 
 	db PORYGON2
@@ -2065,7 +2065,7 @@ BattleTowerMons4:
 	bigdw 86 ; Spd
 	bigdw 123 ; SAtk
 	bigdw 115 ; SDef
-	db "PORIGON2@@@"
+	db "Porigon2@@@"
 
 
 	db ARCANINE
@@ -2092,7 +2092,7 @@ BattleTowerMons4:
 	bigdw 111 ; Spd
 	bigdw 115 ; SAtk
 	bigdw 99 ; SDef
-	db "UINDEi@@@@@"
+	db "Uindei@@@@@"
 
 
 	db FORRETRESS
@@ -2119,7 +2119,7 @@ BattleTowerMons4:
 	bigdw 64 ; Spd
 	bigdw 87 ; SAtk
 	bigdw 87 ; SDef
-	db "HUoRETOSU@@"
+	db "HUoRetosu@@"
 
 
 	db OMASTAR
@@ -2146,7 +2146,7 @@ BattleTowerMons4:
 	bigdw 83 ; Spd
 	bigdw 124 ; SAtk
 	bigdw 88 ; SDef
-	db "OMUSUTA-@@@"
+	db "Omusuta-@@@"
 
 
 	db CHARIZARD
@@ -2173,7 +2173,7 @@ BattleTowerMons4:
 	bigdw 119 ; Spd
 	bigdw 125 ; SAtk
 	bigdw 106 ; SDef
-	db "RIZA-DON@@@"
+	db "Riza-Don@@@"
 
 
 	db EXEGGUTOR
@@ -2227,7 +2227,7 @@ BattleTowerMons4:
 	bigdw 81 ; Spd
 	bigdw 88 ; SAtk
 	bigdw 122 ; SDef
-	db "SURI-PA-@@@"
+	db "Suri-PA-@@@"
 
 
 	db MUK
@@ -2254,7 +2254,7 @@ BattleTowerMons4:
 	bigdw 67 ; Spd
 	bigdw 83 ; SAtk
 	bigdw 111 ; SDef
-	db "BETOBETON@@"
+	db "Betobeton@@"
 
 
 	db ELECTABUZZ
@@ -2281,7 +2281,7 @@ BattleTowerMons4:
 	bigdw 111 ; Spd
 	bigdw 103 ; SAtk
 	bigdw 95 ; SDef
-	db "EREBU-@@@@@"
+	db "Erebu-@@@@@"
 
 
 
@@ -2312,7 +2312,7 @@ BattleTowerMons5:
 	bigdw 132 ; Spd
 	bigdw 144 ; SAtk
 	bigdw 144 ; SDef
-	db "KINGUDORA@@"
+	db "Kingudora@@"
 
 
 	db HOUNDOOM
@@ -2339,7 +2339,7 @@ BattleTowerMons5:
 	bigdw 145 ; Spd
 	bigdw 157 ; SAtk
 	bigdw 127 ; SDef
-	db "HERUGA-@@@@"
+	db "Heruga-@@@@"
 
 
 	db SHUCKLE
@@ -2366,7 +2366,7 @@ BattleTowerMons5:
 	bigdw 52 ; Spd
 	bigdw 59 ; SAtk
 	bigdw 279 ; SDef
-	db "TUBOTUBO@@@"
+	db "Tubotubo@@@"
 
 
 	db SNORLAX
@@ -2393,7 +2393,7 @@ BattleTowerMons5:
 	bigdw 79 ; Spd
 	bigdw 114 ; SAtk
 	bigdw 159 ; SDef
-	db "KABIGON@@@@"
+	db "Kabigon@@@@"
 
 
 	db LAPRAS
@@ -2420,7 +2420,7 @@ BattleTowerMons5:
 	bigdw 107 ; Spd
 	bigdw 133 ; SAtk
 	bigdw 143 ; SDef
-	db "RAPURASU@@@"
+	db "Rapurasu@@@"
 
 
 	db JOLTEON
@@ -2447,7 +2447,7 @@ BattleTowerMons5:
 	bigdw 179 ; Spd
 	bigdw 159 ; SAtk
 	bigdw 144 ; SDef
-	db "SANDA-SU@@@"
+	db "Sanda-SU@@@"
 
 
 	db SCIZOR
@@ -2474,7 +2474,7 @@ BattleTowerMons5:
 	bigdw 111 ; Spd
 	bigdw 99 ; SAtk
 	bigdw 124 ; SDef
-	db "HAtuSAMU@@@"
+	db "HAtuSamu@@@"
 
 
 	db SLOWKING
@@ -2501,7 +2501,7 @@ BattleTowerMons5:
 	bigdw 75 ; Spd
 	bigdw 146 ; SAtk
 	bigdw 156 ; SDef
-	db "YADOKINGU@@"
+	db "Yadokingu@@"
 
 
 	db MACHAMP
@@ -2528,7 +2528,7 @@ BattleTowerMons5:
 	bigdw 99 ; Spd
 	bigdw 108 ; SAtk
 	bigdw 128 ; SDef
-	db "KAIRIKI-@@@"
+	db "Kairiki-@@@"
 
 
 	db STARMIE
@@ -2555,7 +2555,7 @@ BattleTowerMons5:
 	bigdw 161 ; Spd
 	bigdw 145 ; SAtk
 	bigdw 130 ; SDef
-	db "SUTA-MI-@@@"
+	db "Suta-MI-@@@"
 
 
 	db DUGTRIO
@@ -2582,7 +2582,7 @@ BattleTowerMons5:
 	bigdw 166 ; Spd
 	bigdw 96 ; SAtk
 	bigdw 116 ; SDef
-	db "DAGUTORIO@@"
+	db "Dagutorio@@"
 
 
 	db ELECTRODE
@@ -2609,7 +2609,7 @@ BattleTowerMons5:
 	bigdw 185 ; Spd
 	bigdw 126 ; SAtk
 	bigdw 126 ; SDef
-	db "MARUMAIN@@@"
+	db "Marumain@@@"
 
 
 	db AERODACTYL
@@ -2636,7 +2636,7 @@ BattleTowerMons5:
 	bigdw 174 ; Spd
 	bigdw 104 ; SAtk
 	bigdw 119 ; SDef
-	db "PUTERA@@@@@"
+	db "Putera@@@@@"
 
 
 	db CROBAT
@@ -2663,7 +2663,7 @@ BattleTowerMons5:
 	bigdw 175 ; Spd
 	bigdw 117 ; SAtk
 	bigdw 127 ; SDef
-	db "KUROBAtuTO@"
+	db "KurobatuTO@"
 
 
 	db ZAPDOS
@@ -2690,7 +2690,7 @@ BattleTowerMons5:
 	bigdw 143 ; Spd
 	bigdw 171 ; SAtk
 	bigdw 136 ; SDef
-	db "SANDA-@@@@@"
+	db "Sanda-@@@@@"
 
 
 	db SKARMORY
@@ -2717,7 +2717,7 @@ BattleTowerMons5:
 	bigdw 116 ; Spd
 	bigdw 83 ; SAtk
 	bigdw 113 ; SDef
-	db "EA-MUDO@@@@"
+	db "EA-Mudo@@@@"
 
 
 	db FORRETRESS
@@ -2744,7 +2744,7 @@ BattleTowerMons5:
 	bigdw 84 ; Spd
 	bigdw 103 ; SAtk
 	bigdw 103 ; SDef
-	db "HUoRETOSU@@"
+	db "HUoRetosu@@"
 
 
 	db STEELIX
@@ -2771,7 +2771,7 @@ BattleTowerMons5:
 	bigdw 73 ; Spd
 	bigdw 99 ; SAtk
 	bigdw 109 ; SDef
-	db "HAGANE-RU@@"
+	db "Hagane-RU@@"
 
 
 	db GIRAFARIG
@@ -2798,7 +2798,7 @@ BattleTowerMons5:
 	bigdw 120 ; Spd
 	bigdw 126 ; SAtk
 	bigdw 101 ; SDef
-	db "KIRINRIKI@@"
+	db "Kirinriki@@"
 
 
 	db GYARADOS
@@ -2825,7 +2825,7 @@ BattleTowerMons5:
 	bigdw 117 ; Spd
 	bigdw 95 ; SAtk
 	bigdw 135 ; SDef
-	db "GIyaRADOSU@"
+	db "GIyaRadosu@"
 
 
 	db ARTICUNO
@@ -2852,7 +2852,7 @@ BattleTowerMons5:
 	bigdw 120 ; Spd
 	bigdw 131 ; SAtk
 	bigdw 161 ; SDef
-	db "HURI-ZA-@@@"
+	db "Huri-ZA-@@@"
 
 
 
@@ -2883,7 +2883,7 @@ BattleTowerMons6:
 	bigdw 161 ; Spd
 	bigdw 172 ; SAtk
 	bigdw 172 ; SDef
-	db "KINGUDORA@@"
+	db "Kingudora@@"
 
 
 	db TYRANITAR
@@ -2910,7 +2910,7 @@ BattleTowerMons6:
 	bigdw 131 ; Spd
 	bigdw 169 ; SAtk
 	bigdw 175 ; SDef
-	db "BANGIRASU@@"
+	db "Bangirasu@@"
 
 
 	db HOUNDOOM
@@ -2937,7 +2937,7 @@ BattleTowerMons6:
 	bigdw 172 ; Spd
 	bigdw 189 ; SAtk
 	bigdw 153 ; SDef
-	db "HERUGA-@@@@"
+	db "Heruga-@@@@"
 
 
 	db PORYGON2
@@ -2964,7 +2964,7 @@ BattleTowerMons6:
 	bigdw 125 ; Spd
 	bigdw 182 ; SAtk
 	bigdw 170 ; SDef
-	db "PORIGON2@@@"
+	db "Porigon2@@@"
 
 
 	db MACHAMP
@@ -2991,7 +2991,7 @@ BattleTowerMons6:
 	bigdw 120 ; Spd
 	bigdw 134 ; SAtk
 	bigdw 158 ; SDef
-	db "KAIRIKI-@@@"
+	db "Kairiki-@@@"
 
 
 	db ZAPDOS
@@ -3018,7 +3018,7 @@ BattleTowerMons6:
 	bigdw 177 ; Spd
 	bigdw 203 ; SAtk
 	bigdw 161 ; SDef
-	db "SANDA-@@@@@"
+	db "Sanda-@@@@@"
 
 
 	db WOBBUFFET
@@ -3045,7 +3045,7 @@ BattleTowerMons6:
 	bigdw 94 ; Spd
 	bigdw 92 ; SAtk
 	bigdw 122 ; SDef
-	db "SO-NANSU@@@"
+	db "SO-Nansu@@@"
 
 
 	db AERODACTYL
@@ -3072,7 +3072,7 @@ BattleTowerMons6:
 	bigdw 208 ; Spd
 	bigdw 124 ; SAtk
 	bigdw 142 ; SDef
-	db "PUTERA@@@@@"
+	db "Putera@@@@@"
 
 
 	db DRAGONITE
@@ -3099,7 +3099,7 @@ BattleTowerMons6:
 	bigdw 152 ; Spd
 	bigdw 172 ; SAtk
 	bigdw 172 ; SDef
-	db "KAIRIyu-@@@"
+	db "Kairiyu-@@@"
 
 
 	db UMBREON
@@ -3126,7 +3126,7 @@ BattleTowerMons6:
 	bigdw 132 ; Spd
 	bigdw 128 ; SAtk
 	bigdw 212 ; SDef
-	db "BURAtuKI-@@"
+	db "BuratuKI-@@"
 
 
 	db ARCANINE
@@ -3153,7 +3153,7 @@ BattleTowerMons6:
 	bigdw 170 ; Spd
 	bigdw 173 ; SAtk
 	bigdw 149 ; SDef
-	db "UINDEi@@@@@"
+	db "Uindei@@@@@"
 
 
 	db SKARMORY
@@ -3180,7 +3180,7 @@ BattleTowerMons6:
 	bigdw 138 ; Spd
 	bigdw 99 ; SAtk
 	bigdw 135 ; SDef
-	db "EA-MUDO@@@@"
+	db "EA-Mudo@@@@"
 
 
 	db BLISSEY
@@ -3207,7 +3207,7 @@ BattleTowerMons6:
 	bigdw 117 ; Spd
 	bigdw 143 ; SAtk
 	bigdw 215 ; SDef
-	db "HAPINASU@@@"
+	db "Hapinasu@@@"
 
 
 	db SNORLAX
@@ -3234,7 +3234,7 @@ BattleTowerMons6:
 	bigdw 92 ; Spd
 	bigdw 130 ; SAtk
 	bigdw 184 ; SDef
-	db "KABIGON@@@@"
+	db "Kabigon@@@@"
 
 
 	db HERACROSS
@@ -3261,7 +3261,7 @@ BattleTowerMons6:
 	bigdw 156 ; Spd
 	bigdw 101 ; SAtk
 	bigdw 167 ; SDef
-	db "HERAKUROSU@"
+	db "Herakurosu@"
 
 
 	db JYNX
@@ -3315,7 +3315,7 @@ BattleTowerMons6:
 	bigdw 149 ; Spd
 	bigdw 156 ; SAtk
 	bigdw 180 ; SDef
-	db "KAMEtuKUSU@"
+	db "KametuKusu@"
 
 
 	db RHYDON
@@ -3342,7 +3342,7 @@ BattleTowerMons6:
 	bigdw 104 ; Spd
 	bigdw 104 ; SAtk
 	bigdw 104 ; SDef
-	db "SAIDON@@@@@"
+	db "Saidon@@@@@"
 
 
 	db SANDSLASH
@@ -3369,7 +3369,7 @@ BattleTowerMons6:
 	bigdw 116 ; Spd
 	bigdw 93 ; SAtk
 	bigdw 105 ; SDef
-	db "SANDOPAN@@@"
+	db "Sandopan@@@"
 
 
 	db PARASECT
@@ -3396,7 +3396,7 @@ BattleTowerMons6:
 	bigdw 72 ; Spd
 	bigdw 120 ; SAtk
 	bigdw 144 ; SDef
-	db "PARASEKUTO@"
+	db "Parasekuto@"
 
 
 	db GOLEM
@@ -3423,7 +3423,7 @@ BattleTowerMons6:
 	bigdw 90 ; Spd
 	bigdw 105 ; SAtk
 	bigdw 117 ; SDef
-	db "GORO-NIya@@"
+	db "Goro-NIya@@"
 
 
 
@@ -3454,7 +3454,7 @@ BattleTowerMons7:
 	bigdw 245 ; Spd
 	bigdw 222 ; SAtk
 	bigdw 201 ; SDef
-	db "SANDA-SU@@@"
+	db "Sanda-SU@@@"
 
 
 	db VAPOREON
@@ -3508,7 +3508,7 @@ BattleTowerMons7:
 	bigdw 152 ; Spd
 	bigdw 149 ; SAtk
 	bigdw 247 ; SDef
-	db "BURAtuKI-@@"
+	db "BuratuKI-@@"
 
 
 	db BLISSEY
@@ -3535,7 +3535,7 @@ BattleTowerMons7:
 	bigdw 143 ; Spd
 	bigdw 166 ; SAtk
 	bigdw 250 ; SDef
-	db "HAPINASU@@@"
+	db "Hapinasu@@@"
 
 
 	db SNORLAX
@@ -3562,7 +3562,7 @@ BattleTowerMons7:
 	bigdw 105 ; Spd
 	bigdw 152 ; SAtk
 	bigdw 215 ; SDef
-	db "KABIGON@@@@"
+	db "Kabigon@@@@"
 
 
 	db HOUNDOOM
@@ -3589,7 +3589,7 @@ BattleTowerMons7:
 	bigdw 197 ; Spd
 	bigdw 217 ; SAtk
 	bigdw 175 ; SDef
-	db "HERUGA-@@@@"
+	db "Heruga-@@@@"
 
 
 	db TYRANITAR
@@ -3616,7 +3616,7 @@ BattleTowerMons7:
 	bigdw 147 ; Spd
 	bigdw 196 ; SAtk
 	bigdw 203 ; SDef
-	db "BANGIRASU@@"
+	db "Bangirasu@@"
 
 
 	db ZAPDOS
@@ -3643,7 +3643,7 @@ BattleTowerMons7:
 	bigdw 200 ; Spd
 	bigdw 238 ; SAtk
 	bigdw 189 ; SDef
-	db "SANDA-@@@@@"
+	db "Sanda-@@@@@"
 
 
 	db EXEGGUTOR
@@ -3697,7 +3697,7 @@ BattleTowerMons7:
 	bigdw 152 ; Spd
 	bigdw 142 ; SAtk
 	bigdw 240 ; SDef
-	db "BURAtuKI-@@"
+	db "BuratuKI-@@"
 
 
 	db GYARADOS
@@ -3724,7 +3724,7 @@ BattleTowerMons7:
 	bigdw 178 ; Spd
 	bigdw 148 ; SAtk
 	bigdw 204 ; SDef
-	db "GIyaRADOSU@"
+	db "GIyaRadosu@"
 
 
 	db QUAGSIRE
@@ -3751,7 +3751,7 @@ BattleTowerMons7:
 	bigdw 110 ; Spd
 	bigdw 152 ; SAtk
 	bigdw 152 ; SDef
-	db "NUO-@@@@@@@"
+	db "Nuo-@@@@@@@"
 
 
 	db URSARING
@@ -3778,7 +3778,7 @@ BattleTowerMons7:
 	bigdw 138 ; Spd
 	bigdw 166 ; SAtk
 	bigdw 166 ; SDef
-	db "RINGUMA@@@@"
+	db "Ringuma@@@@"
 
 
 	db MR__MIME
@@ -3805,7 +3805,7 @@ BattleTowerMons7:
 	bigdw 190 ; Spd
 	bigdw 198 ; SAtk
 	bigdw 226 ; SDef
-	db "BARIYA-DO@@"
+	db "Bariya-DO@@"
 
 
 	db PRIMEAPE
@@ -3832,7 +3832,7 @@ BattleTowerMons7:
 	bigdw 196 ; Spd
 	bigdw 148 ; SAtk
 	bigdw 162 ; SDef
-	db "OKORIZARU@@"
+	db "Okorizaru@@"
 
 
 	db GIRAFARIG
@@ -3859,7 +3859,7 @@ BattleTowerMons7:
 	bigdw 183 ; Spd
 	bigdw 187 ; SAtk
 	bigdw 152 ; SDef
-	db "KIRINRIKI@@"
+	db "Kirinriki@@"
 
 
 	db HITMONLEE
@@ -3886,7 +3886,7 @@ BattleTowerMons7:
 	bigdw 186 ; Spd
 	bigdw 112 ; SAtk
 	bigdw 217 ; SDef
-	db "SAWAMURA-@@"
+	db "Sawamura-@@"
 
 
 	db HERACROSS
@@ -3913,7 +3913,7 @@ BattleTowerMons7:
 	bigdw 183 ; Spd
 	bigdw 109 ; SAtk
 	bigdw 186 ; SDef
-	db "HERAKUROSU@"
+	db "Herakurosu@"
 
 
 	db VENUSAUR
@@ -3940,7 +3940,7 @@ BattleTowerMons7:
 	bigdw 152 ; Spd
 	bigdw 180 ; SAtk
 	bigdw 180 ; SDef
-	db "HUSIGIBANA@"
+	db "Husigibana@"
 
 
 	db CHARIZARD
@@ -3967,7 +3967,7 @@ BattleTowerMons7:
 	bigdw 180 ; Spd
 	bigdw 193 ; SAtk
 	bigdw 159 ; SDef
-	db "RIZA-DON@@@"
+	db "Riza-Don@@@"
 
 
 	db BLASTOISE
@@ -3994,7 +3994,7 @@ BattleTowerMons7:
 	bigdw 152 ; Spd
 	bigdw 159 ; SAtk
 	bigdw 187 ; SDef
-	db "KAMEtuKUSU@"
+	db "KametuKusu@"
 
 
 
@@ -4025,7 +4025,7 @@ BattleTowerMons8:
 	bigdw 281 ; Spd
 	bigdw 245 ; SAtk
 	bigdw 221 ; SDef
-	db "SANDA-SU@@@"
+	db "Sanda-SU@@@"
 
 
 	db SNORLAX
@@ -4052,7 +4052,7 @@ BattleTowerMons8:
 	bigdw 121 ; Spd
 	bigdw 178 ; SAtk
 	bigdw 250 ; SDef
-	db "KABIGON@@@@"
+	db "Kabigon@@@@"
 
 
 	db HOUNDOOM
@@ -4079,7 +4079,7 @@ BattleTowerMons8:
 	bigdw 224 ; Spd
 	bigdw 245 ; SAtk
 	bigdw 197 ; SDef
-	db "HERUGA-@@@@"
+	db "Heruga-@@@@"
 
 
 	db TAUROS
@@ -4106,7 +4106,7 @@ BattleTowerMons8:
 	bigdw 236 ; Spd
 	bigdw 135 ; SAtk
 	bigdw 183 ; SDef
-	db "KENTAROSU@@"
+	db "Kentarosu@@"
 
 
 	db LAPRAS
@@ -4133,7 +4133,7 @@ BattleTowerMons8:
 	bigdw 168 ; Spd
 	bigdw 202 ; SAtk
 	bigdw 218 ; SDef
-	db "RAPURASU@@@"
+	db "Rapurasu@@@"
 
 
 	db TYRANITAR
@@ -4160,7 +4160,7 @@ BattleTowerMons8:
 	bigdw 169 ; Spd
 	bigdw 218 ; SAtk
 	bigdw 226 ; SDef
-	db "BANGIRASU@@"
+	db "Bangirasu@@"
 
 
 	db GENGAR
@@ -4187,7 +4187,7 @@ BattleTowerMons8:
 	bigdw 248 ; Spd
 	bigdw 277 ; SAtk
 	bigdw 189 ; SDef
-	db "GENGA-@@@@@"
+	db "Genga-@@@@@"
 
 
 	db FORRETRESS
@@ -4214,7 +4214,7 @@ BattleTowerMons8:
 	bigdw 133 ; Spd
 	bigdw 165 ; SAtk
 	bigdw 165 ; SDef
-	db "HUoRETOSU@@"
+	db "HUoRetosu@@"
 
 
 	db KINGDRA
@@ -4241,7 +4241,7 @@ BattleTowerMons8:
 	bigdw 209 ; Spd
 	bigdw 221 ; SAtk
 	bigdw 221 ; SDef
-	db "KINGUDORA@@"
+	db "Kingudora@@"
 
 
 	db DRAGONITE
@@ -4268,7 +4268,7 @@ BattleTowerMons8:
 	bigdw 197 ; Spd
 	bigdw 228 ; SAtk
 	bigdw 228 ; SDef
-	db "KAIRIyu-@@@"
+	db "Kairiyu-@@@"
 
 
 	db PORYGON2
@@ -4295,7 +4295,7 @@ BattleTowerMons8:
 	bigdw 169 ; Spd
 	bigdw 237 ; SAtk
 	bigdw 221 ; SDef
-	db "PORIGON2@@@"
+	db "Porigon2@@@"
 
 
 	db JYNX
@@ -4349,7 +4349,7 @@ BattleTowerMons8:
 	bigdw 180 ; Spd
 	bigdw 196 ; SAtk
 	bigdw 292 ; SDef
-	db "MANTAIN@@@@"
+	db "Mantain@@@@"
 
 
 	db SKARMORY
@@ -4376,7 +4376,7 @@ BattleTowerMons8:
 	bigdw 183 ; Spd
 	bigdw 137 ; SAtk
 	bigdw 185 ; SDef
-	db "EA-MUDO@@@@"
+	db "EA-Mudo@@@@"
 
 
 	db MOLTRES
@@ -4403,7 +4403,7 @@ BattleTowerMons8:
 	bigdw 213 ; Spd
 	bigdw 271 ; SAtk
 	bigdw 207 ; SDef
-	db "HUaIYA-@@@@"
+	db "HUaIya-@@@@"
 
 
 	db AERODACTYL
@@ -4430,7 +4430,7 @@ BattleTowerMons8:
 	bigdw 275 ; Spd
 	bigdw 165 ; SAtk
 	bigdw 189 ; SDef
-	db "PUTERA@@@@@"
+	db "Putera@@@@@"
 
 
 	db ELECTRODE
@@ -4457,7 +4457,7 @@ BattleTowerMons8:
 	bigdw 291 ; Spd
 	bigdw 201 ; SAtk
 	bigdw 201 ; SDef
-	db "MARUMAIN@@@"
+	db "Marumain@@@"
 
 
 	db DUGTRIO
@@ -4484,7 +4484,7 @@ BattleTowerMons8:
 	bigdw 261 ; Spd
 	bigdw 145 ; SAtk
 	bigdw 177 ; SDef
-	db "DAGUTORIO@@"
+	db "Dagutorio@@"
 
 
 	db VICTREEBEL
@@ -4511,7 +4511,7 @@ BattleTowerMons8:
 	bigdw 161 ; Spd
 	bigdw 207 ; SAtk
 	bigdw 143 ; SDef
-	db "UTUBOtuTO@@"
+	db "UtubotuTO@@"
 
 
 	db PINSIR
@@ -4538,7 +4538,7 @@ BattleTowerMons8:
 	bigdw 185 ; Spd
 	bigdw 133 ; SAtk
 	bigdw 157 ; SDef
-	db "KAIROSU@@@@"
+	db "Kairosu@@@@"
 
 
 	db GRANBULL
@@ -4565,7 +4565,7 @@ BattleTowerMons8:
 	bigdw 119 ; Spd
 	bigdw 146 ; SAtk
 	bigdw 146 ; SDef
-	db "GURANBURU@@"
+	db "Guranburu@@"
 
 
 
@@ -4596,7 +4596,7 @@ BattleTowerMons9:
 	bigdw 202 ; Spd
 	bigdw 188 ; SAtk
 	bigdw 314 ; SDef
-	db "BURAtuKI-@@"
+	db "BuratuKI-@@"
 
 
 	db DRAGONITE
@@ -4623,7 +4623,7 @@ BattleTowerMons9:
 	bigdw 229 ; Spd
 	bigdw 263 ; SAtk
 	bigdw 263 ; SDef
-	db "KAIRIyu-@@@"
+	db "Kairiyu-@@@"
 
 
 	db STARMIE
@@ -4650,7 +4650,7 @@ BattleTowerMons9:
 	bigdw 287 ; Spd
 	bigdw 263 ; SAtk
 	bigdw 236 ; SDef
-	db "SUTA-MI-@@@"
+	db "Suta-MI-@@@"
 
 
 	db CLOYSTER
@@ -4677,7 +4677,7 @@ BattleTowerMons9:
 	bigdw 203 ; Spd
 	bigdw 234 ; SAtk
 	bigdw 162 ; SDef
-	db "PARUSIeN@@@"
+	db "ParusieN@@@"
 
 
 	db CROBAT
@@ -4704,7 +4704,7 @@ BattleTowerMons9:
 	bigdw 310 ; Spd
 	bigdw 207 ; SAtk
 	bigdw 225 ; SDef
-	db "KUROBAtuTO@"
+	db "KurobatuTO@"
 
 
 	db PORYGON2
@@ -4731,7 +4731,7 @@ BattleTowerMons9:
 	bigdw 190 ; Spd
 	bigdw 266 ; SAtk
 	bigdw 248 ; SDef
-	db "PORIGON2@@@"
+	db "Porigon2@@@"
 
 
 	db KINGDRA
@@ -4758,7 +4758,7 @@ BattleTowerMons9:
 	bigdw 230 ; Spd
 	bigdw 248 ; SAtk
 	bigdw 248 ; SDef
-	db "KINGUDORA@@"
+	db "Kingudora@@"
 
 
 	db TYRANITAR
@@ -4785,7 +4785,7 @@ BattleTowerMons9:
 	bigdw 185 ; Spd
 	bigdw 250 ; SAtk
 	bigdw 259 ; SDef
-	db "BANGIRASU@@"
+	db "Bangirasu@@"
 
 
 	db LAPRAS
@@ -4812,7 +4812,7 @@ BattleTowerMons9:
 	bigdw 187 ; Spd
 	bigdw 237 ; SAtk
 	bigdw 255 ; SDef
-	db "RAPURASU@@@"
+	db "Rapurasu@@@"
 
 
 	db ESPEON
@@ -4866,7 +4866,7 @@ BattleTowerMons9:
 	bigdw 181 ; Spd
 	bigdw 194 ; SAtk
 	bigdw 230 ; SDef
-	db "KAIRIKI-@@@"
+	db "Kairiki-@@@"
 
 
 	db SNORLAX
@@ -4893,7 +4893,7 @@ BattleTowerMons9:
 	bigdw 135 ; Spd
 	bigdw 194 ; SAtk
 	bigdw 275 ; SDef
-	db "KABIGON@@@@"
+	db "Kabigon@@@@"
 
 
 	db ARCANINE
@@ -4920,7 +4920,7 @@ BattleTowerMons9:
 	bigdw 247 ; Spd
 	bigdw 262 ; SAtk
 	bigdw 226 ; SDef
-	db "UINDEi@@@@@"
+	db "Uindei@@@@@"
 
 
 	db BLISSEY
@@ -4947,7 +4947,7 @@ BattleTowerMons9:
 	bigdw 180 ; Spd
 	bigdw 214 ; SAtk
 	bigdw 322 ; SDef
-	db "HAPINASU@@@"
+	db "Hapinasu@@@"
 
 
 	db HOUNDOOM
@@ -4974,7 +4974,7 @@ BattleTowerMons9:
 	bigdw 252 ; Spd
 	bigdw 277 ; SAtk
 	bigdw 223 ; SDef
-	db "HERUGA-@@@@"
+	db "Heruga-@@@@"
 
 
 	db SKARMORY
@@ -5001,7 +5001,7 @@ BattleTowerMons9:
 	bigdw 207 ; Spd
 	bigdw 139 ; SAtk
 	bigdw 193 ; SDef
-	db "EA-MUDO@@@@"
+	db "EA-Mudo@@@@"
 
 
 	db SHUCKLE
@@ -5028,7 +5028,7 @@ BattleTowerMons9:
 	bigdw 90 ; Spd
 	bigdw 97 ; SAtk
 	bigdw 493 ; SDef
-	db "TUBOTUBO@@@"
+	db "Tubotubo@@@"
 
 
 	db FLAREON
@@ -5055,7 +5055,7 @@ BattleTowerMons9:
 	bigdw 198 ; Spd
 	bigdw 238 ; SAtk
 	bigdw 265 ; SDef
-	db "BU-SUTA-@@@"
+	db "BU-Suta-@@@"
 
 
 	db MILTANK
@@ -5082,7 +5082,7 @@ BattleTowerMons9:
 	bigdw 232 ; Spd
 	bigdw 128 ; SAtk
 	bigdw 182 ; SDef
-	db "MIRUTANKU@@"
+	db "Mirutanku@@"
 
 
 	db TAUROS
@@ -5109,7 +5109,7 @@ BattleTowerMons9:
 	bigdw 254 ; Spd
 	bigdw 126 ; SAtk
 	bigdw 180 ; SDef
-	db "KENTAROSU@@"
+	db "Kentarosu@@"
 
 
 	db MUK
@@ -5136,7 +5136,7 @@ BattleTowerMons9:
 	bigdw 140 ; Spd
 	bigdw 167 ; SAtk
 	bigdw 230 ; SDef
-	db "BETOBETON@@"
+	db "Betobeton@@"
 
 
 
@@ -5167,7 +5167,7 @@ BattleTowerMons10:
 	bigdw 284 ; Spd
 	bigdw 312 ; SAtk
 	bigdw 252 ; SDef
-	db "HERUGA-@@@@"
+	db "Heruga-@@@@"
 
 
 	db MACHAMP
@@ -5194,7 +5194,7 @@ BattleTowerMons10:
 	bigdw 204 ; Spd
 	bigdw 226 ; SAtk
 	bigdw 266 ; SDef
-	db "KAIRIKI-@@@"
+	db "Kairiki-@@@"
 
 
 	db KINGDRA
@@ -5221,7 +5221,7 @@ BattleTowerMons10:
 	bigdw 266 ; Spd
 	bigdw 284 ; SAtk
 	bigdw 284 ; SDef
-	db "KINGUDORA@@"
+	db "Kingudora@@"
 
 
 	db JOLTEON
@@ -5248,7 +5248,7 @@ BattleTowerMons10:
 	bigdw 338 ; Spd
 	bigdw 308 ; SAtk
 	bigdw 278 ; SDef
-	db "SANDA-SU@@@"
+	db "Sanda-SU@@@"
 
 
 	db TAUROS
@@ -5275,7 +5275,7 @@ BattleTowerMons10:
 	bigdw 308 ; Spd
 	bigdw 170 ; SAtk
 	bigdw 230 ; SDef
-	db "KENTAROSU@@"
+	db "Kentarosu@@"
 
 
 	db ARCANINE
@@ -5302,7 +5302,7 @@ BattleTowerMons10:
 	bigdw 281 ; Spd
 	bigdw 290 ; SAtk
 	bigdw 250 ; SDef
-	db "UINDEi@@@@@"
+	db "Uindei@@@@@"
 
 
 	db CHARIZARD
@@ -5329,7 +5329,7 @@ BattleTowerMons10:
 	bigdw 289 ; Spd
 	bigdw 311 ; SAtk
 	bigdw 263 ; SDef
-	db "RIZA-DON@@@"
+	db "Riza-Don@@@"
 
 
 	db ELECTRODE
@@ -5356,7 +5356,7 @@ BattleTowerMons10:
 	bigdw 366 ; Spd
 	bigdw 248 ; SAtk
 	bigdw 248 ; SDef
-	db "MARUMAIN@@@"
+	db "Marumain@@@"
 
 
 	db RHYDON
@@ -5383,7 +5383,7 @@ BattleTowerMons10:
 	bigdw 168 ; Spd
 	bigdw 178 ; SAtk
 	bigdw 178 ; SDef
-	db "SAIDON@@@@@"
+	db "Saidon@@@@@"
 
 
 	db STEELIX
@@ -5410,7 +5410,7 @@ BattleTowerMons10:
 	bigdw 152 ; Spd
 	bigdw 198 ; SAtk
 	bigdw 218 ; SDef
-	db "HAGANE-RU@@"
+	db "Hagane-RU@@"
 
 
 	db FEAROW
@@ -5437,7 +5437,7 @@ BattleTowerMons10:
 	bigdw 287 ; Spd
 	bigdw 212 ; SAtk
 	bigdw 212 ; SDef
-	db "ONIDORIRU@@"
+	db "Onidoriru@@"
 
 
 	db MISDREAVUS
@@ -5464,7 +5464,7 @@ BattleTowerMons10:
 	bigdw 258 ; Spd
 	bigdw 263 ; SAtk
 	bigdw 263 ; SDef
-	db "MUUMA@@@@@@"
+	db "Muuma@@@@@@"
 
 
 	db SNEASEL
@@ -5518,7 +5518,7 @@ BattleTowerMons10:
 	bigdw 220 ; Spd
 	bigdw 196 ; SAtk
 	bigdw 246 ; SDef
-	db "HAtuSAMU@@@"
+	db "HAtuSamu@@@"
 
 
 	db BLISSEY
@@ -5545,7 +5545,7 @@ BattleTowerMons10:
 	bigdw 188 ; Spd
 	bigdw 226 ; SAtk
 	bigdw 346 ; SDef
-	db "HAPINASU@@@"
+	db "Hapinasu@@@"
 
 
 	db PILOSWINE
@@ -5572,7 +5572,7 @@ BattleTowerMons10:
 	bigdw 190 ; Spd
 	bigdw 194 ; SAtk
 	bigdw 194 ; SDef
-	db "INOMU-@@@@@"
+	db "Inomu-@@@@@"
 
 
 	db EXEGGUTOR
@@ -5626,7 +5626,7 @@ BattleTowerMons10:
 	bigdw 198 ; Spd
 	bigdw 304 ; SAtk
 	bigdw 214 ; SDef
-	db "OMUSUTA-@@@"
+	db "Omusuta-@@@"
 
 
 	db GOLEM
@@ -5653,7 +5653,7 @@ BattleTowerMons10:
 	bigdw 146 ; Spd
 	bigdw 170 ; SAtk
 	bigdw 190 ; SDef
-	db "GORO-NIya@@"
+	db "Goro-NIya@@"
 
 
 	db HITMONCHAN
@@ -5680,7 +5680,7 @@ BattleTowerMons10:
 	bigdw 214 ; Spd
 	bigdw 130 ; SAtk
 	bigdw 280 ; SDef
-	db "EBIWARA-@@@"
+	db "Ebiwara-@@@"
 
 
 	db LANTURN
@@ -5707,4 +5707,4 @@ BattleTowerMons10:
 	bigdw 192 ; Spd
 	bigdw 214 ; SAtk
 	bigdw 214 ; SDef
-	db "RANTA-N@@@@"
+	db "Ranta-N@@@@"

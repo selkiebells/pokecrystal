@@ -284,7 +284,7 @@ InitializeMagikarpHouse: ; 5cd3
 ; 5ce3
 
 .Ralph: ; 5ce3
-	db "RALPH@"
+	db "Ralph@"
 ; 5ce9
 
 InitializeNPCNames: ; 5ce9
@@ -562,10 +562,10 @@ Continue_LoadMenuHeader: ; 5ebf
 .MenuData_Dex: ; 5ee1
 	db 0 ; flags
 	db 4 ; items
-	db "PLAYER@"
-	db "BADGES@"
-	db "#DEX@"
-	db "TIME@"
+	db "Player@"
+	db "Badges@"
+	db "#dex@"
+	db "Time@"
 ; 5efb
 
 .MenuHeader_NoDex: ; 5efb
@@ -578,10 +578,10 @@ Continue_LoadMenuHeader: ; 5ebf
 .MenuData_NoDex: ; 5f03
 	db 0 ; flags
 	db 4 ; items
-	db "PLAYER <PLAYER>@"
-	db "BADGES@"
+	db "Player <PLAYER>@"
+	db "BadgesS@"
 	db " @"
-	db "TIME@"
+	db "Time@"
 ; 5f1c
 
 

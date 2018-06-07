@@ -544,13 +544,13 @@ SetDayOfWeek: ; 90913
 	dw .Saturday
 	dw .Sunday
 
-.Sunday:    db " SUNDAY@"
-.Monday:    db " MONDAY@"
-.Tuesday:   db " TUESDAY@"
-.Wednesday: db "WEDNESDAY@"
-.Thursday:  db "THURSDAY@"
-.Friday:    db " FRIDAY@"
-.Saturday:  db "SATURDAY@"
+.Sunday:    db " Sunday@"
+.Monday:    db " Monday@"
+.Tuesday:   db " Tuesday@"
+.Wednesday: db "Wednesday@"
+.Thursday:  db "Thursday@"
+.Friday:    db " Friday@"
+.Saturday:  db "Saturday@"
 
 
 .WhatDayIsItText: ; 0x90a3f
@@ -752,9 +752,9 @@ GetTimeOfDayString: ; 90b58 (24:4b58)
 	ret
 ; 90b71 (24:4b71)
 
-.nite_string: db "NITE@"
-.morn_string: db "MORN@"
-.day_string:  db "DAY@"
+.nite_string: db "Nite@"
+.morn_string: db "Morn@"
+.day_string:  db "Day@"
 ; 90b7f
 
 AdjustHourForAMorPM:

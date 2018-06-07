@@ -104,9 +104,9 @@ DisplayMoneyAndCoinBalance: ; 24b4e
 	ret
 
 MoneyString: ; 24b83
-	db "MONEY@"
+	db "Money@"
 CoinString: ; 24b89
-	db "COIN@"
+	db "Coin@"
 ShowMoney_TerminatorString: ; 24b8e
 	db "@"
 
@@ -197,13 +197,13 @@ StartMenu_PrintBugContestStatus: ; 24be7
 .Balls_JP: ; 24c43
 	db "ボール　　　こ@"
 .CAUGHT: ; 24c4b
-	db "CAUGHT@"
+	db "Caught@"
 .Balls_EN: ; 24c52
-	db "BALLS:@"
+	db "Balls:@"
 .None: ; 24c59
 	db "None@"
 .LEVEL: ; 24c5e
-	db "LEVEL@"
+	db "Level@"
 
 FindApricornsInBag: ; 24c64
 ; Checks the bag for Apricorns.

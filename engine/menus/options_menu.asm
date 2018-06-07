@@ -387,11 +387,11 @@ Options_Print: ; e4424
 	dw .Darker
 	dw .Darkest
 
-.Lightest: db "LIGHTEST@"
-.Lighter:  db "LIGHTER @"
-.Normal:   db "NORMAL  @"
-.Darker:   db "DARKER  @"
-.Darkest:  db "DARKEST @"
+.Lightest: db "Lightest@"
+.Lighter:  db "Lighter @"
+.Normal:   db "Normal  @"
+.Darker:   db "Darker  @"
+.Darkest:  db "Darkest @"
 ; e4491
 
 
