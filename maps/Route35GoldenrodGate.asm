@@ -64,12 +64,12 @@ RandyScript:
 
 GiftSpearowMail:
 	db   FLOWER_MAIL
-	db   "DARK CAVE leads"
+	db   "Dark Cave leads"
 	next "to another road@"
 GiftSpearowName:
-	db "KENYA@"
+	db "Kenya@"
 GiftSpearowOTName:
-	db "RANDY@"
+	db "Randy@"
 
 	db 0
 
@@ -98,10 +98,10 @@ UnknownText_0x69ddd:
 	cont "a favor?"
 
 	para "Can you take this"
-	line "#MON with MAIL"
+	line "#mon with Mail"
 	cont "to my friend?"
 
-	para "He's on ROUTE 31."
+	para "He's on Route 31."
 	done
 
 UnknownText_0x69e48:
@@ -118,13 +118,13 @@ UnknownText_0x69e48:
 
 UnknownText_0x69eb8:
 	text "<PLAYER> received a"
-	line "#MON with MAIL."
+	line "#mon with Mail."
 	done
 
 UnknownText_0x69ed6:
 	text "You can read it,"
 	line "but don't lose it!"
-	cont "ROUTE 31!"
+	cont "Route 31!"
 
 	para "Oh, yeah. There"
 	line "was a weird tree"
@@ -136,7 +136,7 @@ UnknownText_0x69ed6:
 
 UnknownText_0x69f56:
 	text "You can't carry"
-	line "another #MON…"
+	line "another #mon…"
 	done
 
 UnknownText_0x69f74:
@@ -170,24 +170,24 @@ Route35GoldenrodGatePokefanFText:
 	line "wild when someone"
 
 	para "watered it with a"
-	line "SQUIRTBOTTLE."
+	line "Squirtbottle."
 	done
 
 Route35GoldenrodGatePokefanFText_FoughtSudowoodo:
-	text "I like the #MON"
+	text "I like the #mon"
 	line "Lullaby they play"
 	cont "on the radio."
 	done
 
 Route35GoldenrodGateFisherText:
 	text "I wonder how many"
-	line "kinds of #MON"
+	line "kinds of #mon"
 
 	para "there are in the"
 	line "world."
 
 	para "Three years ago,"
-	line "PROF.OAK said that"
+	line "Prof.Oak said that"
 
 	para "there were 150"
 	line "different kinds."

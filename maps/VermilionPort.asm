@@ -238,8 +238,8 @@ UnknownText_0x74f31:
 	done
 
 UnknownText_0x74f4d:
-	text "Welcome to FAST"
-	line "SHIP S.S.AQUA."
+	text "Welcome to Fast"
+	line "Ship S.S.Aqua."
 
 	para "Will you be board-"
 	line "ing today?"
@@ -247,7 +247,7 @@ UnknownText_0x74f4d:
 
 UnknownText_0x74f8b:
 	text "May I see your"
-	line "S.S.TICKET?"
+	line "S.S.Ticket?"
 	done
 
 UnknownText_0x74fa7:
@@ -257,7 +257,7 @@ UnknownText_0x74fa7:
 
 VermilionPortSSTicketText:
 	text "<PLAYER> flashed"
-	line "the S.S.TICKET."
+	line "the S.S.Ticket."
 
 	para "That's it."
 	line "Thank you!"
@@ -266,33 +266,33 @@ VermilionPortSSTicketText:
 UnknownText_0x74ff2:
 	text "<PLAYER> tried to"
 	line "show the S.S."
-	cont "TICKET…"
+	cont "Ticket…"
 
-	para "…But no TICKET!"
+	para "…But no Ticket!"
 
 	para "Sorry!"
 	line "You may board only"
 
 	para "if you have an"
-	line "S.S.TICKET."
+	line "S.S.Ticket."
 	done
 
 UnknownText_0x75059:
-	text "The FAST SHIP will"
+	text "The Fast Ship will"
 	line "sail on Wednesday."
 	done
 
 UnknownText_0x75080:
-	text "The FAST SHIP will"
+	text "The Fast Ship will"
 	line "sail next Sunday."
 	done
 
 UnknownText_0x750a6:
 	text "You came from"
-	line "JOHTO?"
+	line "Johto?"
 
 	para "I hear many rare"
-	line "#MON live over"
+	line "#mon live over"
 	cont "there."
 	done
 

@@ -16,7 +16,7 @@ TinTower9FUnusedHoOhText:
 
 TinTower9FUnusedLugiaText:
 ; unused
-	text "LUGIA: Gyaaan!"
+	text "Lugia: Gyaaan!"
 	done
 
 TinTower9F_MapEvents:

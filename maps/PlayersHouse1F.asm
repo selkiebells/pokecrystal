@@ -104,7 +104,7 @@ MeetMomTalkedScript:
 	jump MeetMomScript
 
 GearName:
-	db "#GEAR@"
+	db "#gear@"
 
 PlayersHouse1FReceiveItemStd:
 	jumpstd receiveitem
@@ -212,9 +212,9 @@ MovementData_0x7a602:
 
 UnknownText_0x7a604:
 	text "Oh, <PLAYER>…! Our"
-	line "neighbor, PROF."
+	line "neighbor, Prof."
 
-	para "ELM, was looking"
+	para "Elm, was looking"
 	line "for you."
 
 	para "He said he wanted"
@@ -222,17 +222,17 @@ UnknownText_0x7a604:
 	cont "thing for him."
 
 	para "Oh! I almost for-"
-	line "got! Your #MON"
+	line "got! Your #mon"
 
-	para "GEAR is back from"
+	para "Gear is back from"
 	line "the repair shop."
 
 	para "Here you go!"
 	done
 
 UnknownText_0x7a6bd:
-	text "#MON GEAR, or"
-	line "just #GEAR."
+	text "#mon Gear, or"
+	line "just #gear."
 
 	para "It's essential if"
 	line "you want to be a"
@@ -259,24 +259,24 @@ UnknownText_0x7a763:
 
 	para "By the way, do you"
 	line "know how to use"
-	cont "the PHONE?"
+	cont "the Phone?"
 	done
 
 UnknownText_0x7a7cb:
 	text "Don't you just"
-	line "turn the #GEAR"
+	line "turn the #gear"
 
 	para "on and select the"
-	line "PHONE icon?"
+	line "Phone icon?"
 	done
 
 UnknownText_0x7a807:
 	text "I'll read the"
 	line "instructions."
 
-	para "Turn the #GEAR"
+	para "Turn the #gear"
 	line "on and select the"
-	cont "PHONE icon."
+	cont "Phone icon."
 	done
 
 UnknownText_0x7a850:
@@ -291,15 +291,15 @@ UnknownText_0x7a850:
 	done
 
 UnknownText_0x7a8b5:
-	text "PROF.ELM is wait-"
+	text "Prof.Elm is wait-"
 	line "ing for you."
 
 	para "Hurry up, baby!"
 	done
 
 UnknownText_0x7a8e5:
-	text "So, what was PROF."
-	line "ELM's errand?"
+	text "So, what was Prof."
+	line "Elm's errand?"
 
 	para "…"
 
@@ -344,18 +344,18 @@ NeighborText:
 	para "My daughter is"
 	line "adamant about"
 
-	para "becoming PROF."
-	line "ELM's assistant."
+	para "becoming Prof."
+	line "Elm's assistant."
 
 	para "She really loves"
-	line "#MON!"
+	line "#mon!"
 	done
 
 StoveText:
 	text "Mom's specialty!"
 
-	para "CINNABAR VOLCANO"
-	line "BURGER!"
+	para "Cinnabar Volcano"
+	line "Burger!"
 	done
 
 SinkText:
@@ -368,8 +368,8 @@ FridgeText:
 	text "Let's see what's"
 	line "in the fridge…"
 
-	para "FRESH WATER and"
-	line "tasty LEMONADE!"
+	para "Fresh Water and"
+	line "tasty Lemonade!"
 	done
 
 TVText:

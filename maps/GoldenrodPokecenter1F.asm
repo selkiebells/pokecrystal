@@ -152,18 +152,18 @@ MovementData_0x6106c:
 ; unused
 UnknownText_0x61072:
 	text "Hello! Welcome to"
-	line "#COM CENTER"
-	cont "TRADE CORNER."
+	line "#com Center"
+	cont "Trade Corner."
 
 	para "You can trade"
-	line "#MON with other"
+	line "#mon with other"
 	cont "people far away."
 	done
 
 UnknownText_0x610ce:
 	text "To make a trade,"
 	line "we must hold your"
-	cont "#MON."
+	cont "#mon."
 
 	para "Would you like to"
 	line "trade?"
@@ -171,7 +171,7 @@ UnknownText_0x610ce:
 
 UnknownText_0x61111:
 	text "What kind of"
-	line "#MON do you"
+	line "#mon do you"
 	cont "want in return?"
 	done
 
@@ -187,7 +187,7 @@ UnknownText_0x6113b:
 	text "."
 
 	para "We'll have to hold"
-	line "your #MON"
+	line "your #mon"
 	cont "during the trade."
 
 	para "Please wait while"
@@ -202,11 +202,11 @@ UnknownText_0x611c9:
 	para "@"
 	text_from_ram wStringBuffer3
 	text " for a"
-	line "#MON that you"
+	line "#mon that you"
 	cont "have never seen."
 
 	para "We'll have to hold"
-	line "your #MON"
+	line "your #mon"
 	cont "during the trade."
 
 	para "Please wait while"
@@ -215,7 +215,7 @@ UnknownText_0x611c9:
 	done
 
 UnknownText_0x61271:
-	text "Your trade #MON"
+	text "Your trade #mon"
 	line "has been received."
 
 	para "It will take time"
@@ -227,7 +227,7 @@ UnknownText_0x61271:
 
 UnknownText_0x612d8:
 	text "Oh? You have only"
-	line "one #MON in"
+	line "one #mon in"
 	cont "your party. "
 
 	para "Please come back"
@@ -248,18 +248,18 @@ UnknownText_0x6135f:
 
 UnknownText_0x61375:
 	text "If we accept that"
-	line "#MON, what will"
+	line "#mon, what will"
 	cont "you battle with?"
 	done
 
 UnknownText_0x613a9:
 	text "Sorry. We can't"
-	line "accept an EGG."
+	line "accept an Egg."
 	done
 
 UnknownText_0x613c8:
 	text "Sorry, but your"
-	line "#MON appears to"
+	line "#mon appears to"
 
 	para "be abnormal. We"
 	line "can't accept it."
@@ -268,7 +268,7 @@ UnknownText_0x613c8:
 UnknownText_0x61409:
 	text "Oh? Aren't we"
 	line "already holding a"
-	cont "#MON of yours?"
+	cont "#mon of yours?"
 	done
 
 UnknownText_0x61438:
@@ -314,12 +314,12 @@ UnknownText_0x61544:
 	line "trade partner."
 
 	para "Would you like"
-	line "your #MON back?"
+	line "your #mon back?"
 	done
 
 UnknownText_0x615a5:
 	text "We have returned"
-	line "your #MON."
+	line "your #mon."
 	done
 
 UnknownText_0x615c2:
@@ -330,7 +330,7 @@ UnknownText_0x615c2:
 	line "trade partner."
 
 	para "We've held your"
-	line "#MON for a long"
+	line "#mon for a long"
 
 	para "time. As a result,"
 	line "it is very lonely."
@@ -347,12 +347,12 @@ UnknownText_0x6166e:
 UnknownText_0x61689:
 	text "Fine. We will"
 	line "continue to hold"
-	cont "your #MON."
+	cont "your #mon."
 	done
 
 UnknownText_0x616b4:
 	text "Oh? You left your"
-	line "#MON with us"
+	line "#mon with us"
 	cont "only recently."
 
 	para "Please come back"
@@ -360,13 +360,13 @@ UnknownText_0x616b4:
 	done
 
 UnknownText_0x616fb:
-	text "We'll SAVE before"
+	text "We'll Save before"
 	line "connecting to the"
-	cont "CENTER."
+	cont "Center."
 	done
 
 UnknownText_0x61727:
-	text "Which #MON do"
+	text "Which #mon do"
 	line "you want to trade?"
 	done
 
@@ -379,13 +379,13 @@ UnknownText_0x6176f:
 	text "Oh!"
 
 	para "I see you have an"
-	line "EGG TICKET!"
+	line "Egg Ticket!"
 
 	para "It's a coupon that"
 	line "special people can"
 
 	para "redeem for a"
-	line "special #MON!"
+	line "special #mon!"
 	done
 
 UnknownText_0x617d2:
@@ -393,7 +393,7 @@ UnknownText_0x617d2:
 	line "quick briefing."
 
 	para "Trades held at the"
-	line "TRADE CORNER are"
+	line "Trade Corner are"
 
 	para "between two"
 	line "trainers who don't"
@@ -404,8 +404,8 @@ UnknownText_0x617d2:
 	para "As a result, it"
 	line "may take time."
 
-	para "However, an ODD"
-	line "EGG is available"
+	para "However, an Odd"
+	line "Egg is available"
 	cont "just for you."
 
 	para "It will be sent to"
@@ -414,8 +414,8 @@ UnknownText_0x617d2:
 	para "Please choose one"
 	line "of the rooms in"
 
-	para "the CENTER."
-	line "An ODD EGG will be"
+	para "the Center."
+	line "An Odd Egg will be"
 
 	para "sent from the"
 	line "chosen room."
@@ -431,7 +431,7 @@ UnknownText_0x61936:
 	line "waiting."
 
 	para "We received your"
-	line "ODD EGG."
+	line "Odd Egg."
 
 	para "Here it is!"
 
@@ -442,14 +442,14 @@ UnknownText_0x61936:
 UnknownText_0x61996:
 	text "I'm awfully sorry."
 
-	para "The EGG TICKET"
+	para "The Egg Ticket"
 	line "exchange service"
 	cont "isn't running now."
 	done
 
 UnknownText_0x619db:
-	text "It's a #MON"
-	line "NEWS MACHINE."
+	text "It's a #mon"
+	line "News Machine."
 	done
 
 UnknownText_0x619f5:
@@ -458,19 +458,19 @@ UnknownText_0x619f5:
 	done
 
 UnknownText_0x61a11:
-	text "#MON NEWS is"
+	text "#mon News is"
 	line "news compiled from"
 
-	para "the SAVE files of"
-	line "#MON trainers."
+	para "the Save files of"
+	line "#mon trainers."
 
 	para "When reading the"
-	line "NEWS, your SAVE"
+	line "News, your Save"
 
 	para "file may be sent"
 	line "out."
 
-	para "The SAVE file data"
+	para "The Save file data"
 	line "will contain your"
 
 	para "adventure log and"
@@ -480,39 +480,39 @@ UnknownText_0x61a11:
 	line "will not be sent."
 
 	para "The contents of"
-	line "the NEWS will vary"
+	line "the News will vary"
 
 	para "depending on the"
-	line "SAVE files sent by"
+	line "Save files sent by"
 
 	para "you and the other"
-	line "#MON trainers."
+	line "#mon trainers."
 
 	para "You might even be"
-	line "in the NEWS!"
+	line "in the News!"
 	done
 
 UnknownText_0x61b7c:
 	text "Would you like to"
-	line "get the NEWS?"
+	line "get the News?"
 	done
 
 UnknownText_0x61b9d:
 	text "Reading the latest"
-	line "NEWS… Please wait."
+	line "News… Please wait."
 	done
 
 UnknownText_0x61bc4:
 	text "There is no old"
-	line "NEWS…"
+	line "News…"
 	done
 
 UnknownText_0x61bdb:
-	text "The NEWS data is"
+	text "The News data is"
 	line "corrupted."
 
 	para "Please download"
-	line "the NEWS again."
+	line "the News again."
 	done
 
 UnknownText_0x61c18:
@@ -524,16 +524,16 @@ UnknownText_0x61c18:
 	done
 
 UnknownText_0x61c4b:
-	text "We will SAVE your"
+	text "We will Save your"
 	line "progress before"
 
-	para "starting the NEWS"
-	line "MACHINE."
+	para "starting the News"
+	line "Machine."
 	done
 
 UnknownText_0x61c89:
-	text "Whoa, this #MON"
-	line "CENTER is huge."
+	text "Whoa, this #mon"
+	line "Center is huge."
 
 	para "They just built"
 	line "this place. They"
@@ -545,23 +545,23 @@ UnknownText_0x61c89:
 UnknownText_0x61cef:
 	text "I thought up a fun"
 	line "new thing for the"
-	cont "TRADE CORNER!"
+	cont "Trade Corner!"
 
-	para "I make a PIDGEY"
-	line "hold MAIL, then"
+	para "I make a Pidgey"
+	line "hold Mail, then"
 
 	para "put it up for"
 	line "trade for another"
 	cont "one!"
 
 	para "If everyone did"
-	line "that, MAIL could"
+	line "that, Mail could"
 
 	para "be traded with all"
 	line "sorts of people!"
 
-	para "I call it PIDGEY"
-	line "MAIL!"
+	para "I call it Pidgey"
+	line "Mail!"
 
 	para "If it becomes"
 	line "popular, I might"
@@ -572,7 +572,7 @@ UnknownText_0x61cef:
 
 UnknownText_0x61dfd:
 	text "They said you can"
-	line "trade #MON with"
+	line "trade #mon with"
 
 	para "total strangers up"
 	line "here."
@@ -585,25 +585,25 @@ UnknownText_0x61e5c:
 	text "Some girl I don't"
 	line "know sent me her"
 
-	para "HOPPIP."
+	para "Hoppip."
 	line "You should trade"
 
-	para "for a #MON that"
+	para "for a #mon that"
 	line "you want."
 	done
 
 UnknownText_0x61eb2:
 	text "I received a"
-	line "female HOPPIP, but"
-	cont "its named STANLEY!"
+	line "female Hoppip, but"
+	cont "its named Stanley!"
 
 	para "That's my dad's"
 	line "name!"
 	done
 
 UnknownText_0x61efa:
-	text "What is the NEWS"
-	line "MACHINE?"
+	text "What is the News"
+	line "Machine?"
 
 	para "Does it get news"
 	line "from a wider area"
@@ -611,10 +611,10 @@ UnknownText_0x61efa:
 	done
 
 UnknownText_0x61f48:
-	text "The #COM CENTER"
+	text "The #com Center"
 	line "will link with all"
 
-	para "#MON CENTERS in"
+	para "#mon Centers in"
 	line "a wireless net."
 
 	para "That must mean"
@@ -637,7 +637,7 @@ UnknownText_0x61fc9:
 
 UnknownText_0x6202c:
 	text "My friend was in"
-	line "the NEWS a while"
+	line "the News a while"
 
 	para "back. I was really"
 	line "surprised!"
@@ -646,23 +646,23 @@ UnknownText_0x6202c:
 UnknownText_0x6206d:
 	text "I get anxious if I"
 	line "don't check out"
-	cont "the latest NEWS!"
+	cont "the latest News!"
 	done
 
 UnknownText_0x620a1:
 	text "If I get in the"
-	line "NEWS and become"
+	line "News and become"
 
 	para "famous, I bet I'll"
 	line "be adored."
 
 	para "I wonder how I"
 	line "could get in the"
-	cont "NEWS?"
+	cont "News?"
 	done
 
 GoldenrodPokecenter1FGameboyKidText:
-	text "The COLOSSEUM"
+	text "The Colosseum"
 	line "upstairs is for"
 	cont "link battles."
 
@@ -677,8 +677,8 @@ UnknownText_0x62173:
 	text "I came over here"
 	line "when I got word"
 
-	para "that GOLDENROD's"
-	line "#MON CENTER has"
+	para "that Goldenrod's"
+	line "#mon Center has"
 
 	para "new machines that"
 	line "no one's ever seen"
@@ -701,7 +701,7 @@ UnknownText_0x62222:
 
 GoldenrodPokecenter1FLassText:
 	text "A higher level"
-	line "#MON doesn't"
+	line "#mon doesn't"
 	cont "always win."
 
 	para "After all, it may"
@@ -711,7 +711,7 @@ GoldenrodPokecenter1FLassText:
 	para "I don't think"
 	line "there is a single"
 
-	para "#MON that is"
+	para "#mon that is"
 	line "the toughest."
 	done
 
@@ -721,7 +721,7 @@ UnknownText_0x622f0:
 	para "Congratulations!"
 
 	para "As a special deal,"
-	line "a GS BALL has been"
+	line "a GS Ball has been"
 	cont "sent just for you!"
 
 	para "Please accept it!"
@@ -733,22 +733,22 @@ UnknownText_0x62359:
 	done
 
 UnknownText_0x62370:
-	text "#COM CENTER"
-	line "1F INFORMATION"
+	text "#com Center"
+	line "1F Information"
 
 	para "Left:"
-	line "ADMINISTRATION"
+	line "Administration"
 
 	para "Center:"
-	line "TRADE CORNER"
+	line "Trade Corner"
 
 	para "Right:"
-	line "#MON NEWS"
+	line "#mon News"
 	done
 
 UnknownText_0x623c7:
-	text "It's a #MON"
-	line "NEWS MACHINE!"
+	text "It's a #mon"
+	line "News Machine!"
 
 	para "It's not in"
 	line "operation yet…"
@@ -760,7 +760,7 @@ UnknownText_0x623fb:
 
 	para "Oh! Do you happen"
 	line "to have something"
-	cont "named EON MAIL?"
+	cont "named Eon Mail?"
 
 	para "My daughter is"
 	line "after one."
@@ -770,8 +770,8 @@ UnknownText_0x623fb:
 	done
 
 UnknownText_0x6248c:
-	text "Give away an EON"
-	line "MAIL?"
+	text "Give away an Eon"
+	line "Mail?"
 	done
 
 UnknownText_0x624a4:
@@ -799,7 +799,7 @@ UnknownText_0x6252a:
 
 UnknownText_0x62549:
 	text "<PLAYER> gave away"
-	line "the EON MAIL."
+	line "the Eon Mail."
 	done
 
 GoldenrodPokecenter1F_MapEvents:

@@ -126,13 +126,13 @@ MovementData_0x18a8a1:
 
 UnknownText_0x18a8a9:
 	text "I'm sorry, but the"
-	line "MAGNET TRAIN isn't"
+	line "Magnet Train isn't"
 	cont "operating now."
 	done
 
 UnknownText_0x18a8dd:
 	text "We'll soon depart"
-	line "for GOLDENROD."
+	line "for Goldenrod."
 
 	para "Are you coming on"
 	line "board?"
@@ -140,7 +140,7 @@ UnknownText_0x18a8dd:
 
 UnknownText_0x18a917:
 	text "May I see your"
-	line "rail PASS, please?"
+	line "rail Pass, please?"
 
 	para "OK. Right this"
 	line "way, please."
@@ -148,7 +148,7 @@ UnknownText_0x18a917:
 
 UnknownText_0x18a956:
 	text "Sorry, but you"
-	line "don't have a PASS."
+	line "don't have a Pass."
 	done
 
 UnknownText_0x18a978:
@@ -158,14 +158,14 @@ UnknownText_0x18a978:
 
 UnknownText_0x18a993:
 	text "We have arrived in"
-	line "SAFFRON."
+	line "Saffron."
 
 	para "We hope to see you"
 	line "again."
 	done
 
 SaffronMagnetTrainStationGymGuyText:
-	text "The MAGNET TRAIN"
+	text "The Magnet Train"
 	line "is a super-modern"
 
 	para "rail liner that"
@@ -187,30 +187,30 @@ SaffronMagnetTrainStationGymGuyText_ReturnedMachinePart:
 	line "have I gone back"
 
 	para "and forth between"
-	line "KANTO and JOHTO?"
+	line "Kanto and Johto?"
 	done
 
 SaffronMagnetTrainStationTeacherText:
-	text "Before the MAGNET"
-	line "TRAIN STATION was"
+	text "Before the Magnet"
+	line "Train Station was"
 
 	para "built, there was a"
 	line "house there."
 
 	para "A little girl"
-	line "named COPYCAT used"
+	line "named Copycat used"
 	cont "to live there."
 	done
 
 SaffronMagnetTrainStationLassText:
 	text "Hi. Do you have a"
-	line "rail PASS? I have"
+	line "rail Pass? I have"
 
 	para "one. All the peo-"
-	line "ple in SAFFRON who"
+	line "ple in Saffron who"
 
-	para "ride the MAGNET"
-	line "TRAIN have PASSES."
+	para "ride the Magnet"
+	line "Train have Passes."
 	done
 
 SaffronMagnetTrainStation_MapEvents:

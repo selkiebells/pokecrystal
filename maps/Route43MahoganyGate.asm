@@ -24,7 +24,7 @@ Route43MahoganyGateOfficer:
 
 UnknownText_0x19ab1f:
 	text "Only people headed"
-	line "up to LAKE OF RAGE"
+	line "up to Lake OF Rage"
 
 	para "have been through"
 	line "here lately."
@@ -32,7 +32,7 @@ UnknownText_0x19ab1f:
 
 UnknownText_0x19ab65:
 	text "Nobody goes up to"
-	line "LAKE OF RAGE these"
+	line "Lake OF Rage these"
 	cont "days."
 	done
 

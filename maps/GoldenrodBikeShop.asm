@@ -50,11 +50,11 @@ UnknownText_0x54787:
 	text "…sigh… I moved"
 	line "here, but I can't"
 
-	para "sell my BICYCLES."
+	para "sell my Bicycles."
 	line "Why is that?"
 
 	para "Could you ride a"
-	line "BICYCLE and adver-"
+	line "Bicycle and adver-"
 	cont "tise for me?"
 	done
 
@@ -65,16 +65,16 @@ UnknownText_0x547f8:
 	line "and phone number,"
 
 	para "and I'll loan you"
-	line "a BICYCLE."
+	line "a Bicycle."
 	done
 
 UnknownText_0x54848:
 	text "<PLAYER> borrowed a"
-	line "BICYCLE."
+	line "Bicycle."
 	done
 
 UnknownText_0x5485f:
-	text "My BICYCLES are"
+	text "My Bicycles are"
 	line "first-rate! You"
 
 	para "can ride them"
@@ -92,12 +92,12 @@ GoldenrodBikeShopJustReleasedCompactBikeText:
 	text "Just released!"
 
 	para "First-rate compact"
-	line "BICYCLES!"
+	line "Bicycles!"
 	done
 
 GoldenrodBikeShopBicycleText:
 	text "It's a shiny new"
-	line "BICYCLE!"
+	line "Bicycle!"
 	done
 
 GoldenrodBikeShop_MapEvents:

@@ -30,7 +30,7 @@ Route26HealHouseBookshelf:
 	jumpstd picturebookshelf
 
 UnknownText_0x7b14d:
-	text "Your #MON look"
+	text "Your #mon look"
 	line "a little tired."
 
 	para "You should rest"
@@ -40,7 +40,7 @@ UnknownText_0x7b14d:
 UnknownText_0x7b18b:
 	text "There!"
 
-	para "Your #MON are"
+	para "Your #mon are"
 	line "looking good!"
 
 	para "Keep at it!"

@@ -103,7 +103,7 @@ VermilionGymStatue:
 	jumpstd gymstatue2
 
 UnknownText_0x192142:
-	text "SURGE: Hey, you"
+	text "Surge: Hey, you"
 	line "little tyke!"
 
 	para "I have to hand it"
@@ -114,7 +114,7 @@ UnknownText_0x192142:
 	cont "it takes guts!"
 
 	para "When it comes to"
-	line "electric #MON,"
+	line "electric #mon,"
 	cont "I'm number one!"
 
 	para "I've never lost on"
@@ -126,22 +126,22 @@ UnknownText_0x192142:
 	done
 
 UnknownText_0x192238:
-	text "SURGE: Arrrgh!"
+	text "Surge: Arrrgh!"
 	line "You are strong!"
 
 	para "OK, kid. You get"
-	line "THUNDERBADGE!"
+	line "Thunderbadge!"
 	done
 
 UnknownText_0x192277:
 	text "<PLAYER> received"
-	line "THUNDERBADGE."
+	line "Thunderbadge."
 	done
 
 UnknownText_0x192291:
-	text "SURGE: THUNDER-"
-	line "BADGE increases"
-	cont "#MON's speed. "
+	text "Surge: Thunder-"
+	line "Badge increases"
+	cont "#mon's speed. "
 
 	para "Consider it proof"
 	line "that you defeated"
@@ -151,17 +151,17 @@ UnknownText_0x192291:
 	done
 
 UnknownText_0x192303:
-	text "SURGE: Hey, kid!"
+	text "Surge: Hey, kid!"
 	line "Still slugging and"
 	cont "chugging away?"
 
-	para "My #MON and I"
+	para "My #mon and I"
 	line "are still at it!"
 	done
 
 GentlemanGregorySeenText:
 	text "You're here to"
-	line "defeat LT.SURGE?"
+	line "defeat LT.Surge?"
 
 	para "Not if I can help"
 	line "it!"
@@ -169,7 +169,7 @@ GentlemanGregorySeenText:
 
 GentlemanGregoryBeatenText:
 	text "Sorry I failed"
-	line "you, LT.SURGE,"
+	line "you, LT.Surge,"
 	cont "sir!"
 	done
 
@@ -177,16 +177,16 @@ GentlemanGregoryAfterBattleText:
 	text "When I was still"
 	line "in the army, LT."
 
-	para "SURGE saved my"
+	para "Surge saved my"
 	line "life."
 	done
 
 GuitaristVincentSeenText:
-	text "LT.SURGE recog-"
+	text "LT.Surge recog-"
 	line "nized my potential"
 
 	para "with electric"
-	line "#MON."
+	line "#mon."
 
 	para "Think you can beat"
 	line "me?"
@@ -197,7 +197,7 @@ GuitaristVincentBeatenText:
 	done
 
 GuitaristVincentAfterBattleText:
-	text "If the GYM's traps"
+	text "If the Gym's traps"
 	line "were working, you"
 
 	para "would have been"
@@ -220,21 +220,21 @@ JugglerHortonAfterBattleText:
 	line "fortable about"
 
 	para "beating me…"
-	line "LT.SURGE is tough."
+	line "LT.Surge is tough."
 	done
 
 VermilionGymGuyText:
-	text "Yo! CHAMP in"
+	text "Yo! Champ in"
 	line "making!"
 
 	para "You lucked out"
 	line "this time."
 
-	para "LT.SURGE is very"
+	para "LT.Surge is very"
 	line "cautious. He has"
 
 	para "traps set all over"
-	line "the GYM."
+	line "the Gym."
 
 	para "But--he-heh--the"
 	line "traps aren't"
@@ -242,7 +242,7 @@ VermilionGymGuyText:
 
 	para "You'll have no"
 	line "problem getting to"
-	cont "LT.SURGE."
+	cont "LT.Surge."
 	done
 
 VermilionGymGuyWinText:
