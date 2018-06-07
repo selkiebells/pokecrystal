@@ -55,9 +55,9 @@ PokecomCenterAdminOfficeMobileComputer1:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 3 ; items
-	db "#　���ん　クラブ@" ; # Com Club
-	db "モ�イルセンター@" ; Mobile Center
-	db "や�る@" ; Quit
+	db "#　つうしん　クラブ@" ; # COM CLUB
+	db "モバイルセンター@" ; MOBILE CENTER
+	db "やめる@" ; QUIT
 
 PokecomCenterAdminOfficeMobileComputer2:
 	opentext
@@ -97,16 +97,16 @@ PokecomCenterAdminOfficeMobileComputer2:
 .MenuData:
 	db STATICMENU_CURSOR ; flags
 	db 3 ; items
-	db "�ん�<WO>�����@" ; Use phone
-	db "�ん�<GA>���ら����@" ; Don't use phone
-	db "や�る@" ; Quit
+	db "でんわ<WO>つかうとき@" ; Use phone
+	db "でんわ<GA>つながらないとき@" ; Don't use phone
+	db "やめる@" ; QUIT
 
 PokecomCenterAdminOfficeMobileComputer3:
 	jumptext PokecomCenterAdminOfficeMobileComputer3Text
 
 PokecomCenterAdminOfficeMobileScientist1Text:
-	text "#com Center and"
-	line "Mobile Center were"
+	text "#COM CENTER and"
+	line "MOBILE CENTER were"
 
 	para "built to satisfy"
 	line "demands for trades"
@@ -146,46 +146,46 @@ PokecomCenterAdminOfficeMobileScientist3Text:
 
 PokecomCenterAdminOfficeMobileComputer1Text:
 	text "It's a notice"
-	line "about where Mobile"
+	line "about where MOBILE"
 
-	para "Adapters are to be"
+	para "ADAPTERS are to be"
 	line "used…"
 	done
 
 PokecomCenterAdminOfficeMobileComputer1Text_PokeComClub:
-	text "There's a #com"
-	line "Club upstairs in"
+	text "There's a #COM"
+	line "CLUB upstairs in"
 
-	para "any #mon"
-	line "Center."
+	para "any #MON"
+	line "CENTER."
 
 	para "There, you can"
 	line "battle or trade"
 
 	para "with a friend far"
 	line "away by using a"
-	cont "Mobile Adapter."
+	cont "MOBILE ADAPTER."
 
 	para "To link up, your"
 	line "friend must have"
 
 	para "the same kind of"
-	line "Mobile Adapter as"
+	line "MOBILE ADAPTER as"
 	cont "you."
 	done
 
 PokecomCenterAdminOfficeMobileComputer1Text_MobileCenter:
-	text "To use the Trade"
-	line "Corner or read the"
+	text "To use the TRADE"
+	line "CORNER or read the"
 
-	para "#mon News, you"
+	para "#MON NEWS, you"
 	line "need to phone the"
-	cont "Mobile Center."
+	cont "MOBILE CENTER."
 
 	para "You must register"
-	line "at the Mobile"
+	line "at the MOBILE"
 
-	para "Center before"
+	para "CENTER before"
 	line "connecting there."
 	done
 
@@ -199,7 +199,7 @@ PokecomCenterAdminOfficeMobileComputer2Text_UsePhone:
 	text "Please ensure that"
 	line "your phone and"
 
-	para "Mobile Adapter are"
+	para "MOBILE ADAPTER are"
 	line "properly linked."
 
 	para "Please make sure"
@@ -233,19 +233,19 @@ PokecomCenterAdminOfficeMobileComputer2Text_DontUsePhone:
 	done
 
 PokecomCenterAdminOfficeMobileComputer3Text:
-	text "The Administration"
-	line "Office received an"
+	text "The ADMINISTRATION"
+	line "OFFICE received an"
 	cont "e-mail. It says…"
 
 	para "<……> <……> <……>"
 
-	para "To the #com"
-	line "Center staff…"
+	para "To the #COM"
+	line "CENTER staff…"
 
 	para "Wireless communi-"
 	line "cation has enabled"
 
-	para "#mon trainers"
+	para "#MON trainers"
 	line "to interact across"
 
 	para "the nation. Let's"

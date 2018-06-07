@@ -22,7 +22,7 @@ BattleTowerTrainers: ; 1f814e
 	db "Javier@@@@", SWIMMERF
 	db "Kaufman@@@", SWIMMERM
 	db "Lancaster@", SKIER
-	db "McMAHILL@@", CAMPER
+	db "McMahill@@", CAMPER
 ; The following can only be sampled in Crystal 1.1.
 	db "Obrien@@@@", GENTLEMAN
 	db "Frost@@@@@", BEAUTY
