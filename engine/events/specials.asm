@@ -101,7 +101,7 @@ NameRival: ; 0xc29d
 ; 0xc2b2
 
 DefaultRivalName: ; 0xc2b2
-	db "SILVER@"
+	db "Silver@"
 
 NameRater: ; c2b9
 	farcall _NameRater

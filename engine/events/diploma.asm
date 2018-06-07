@@ -38,7 +38,7 @@ PlaceDiplomaOnScreen: ; 1dd709
 ; 1dd760
 
 .Player:
-	db "PLAYER@"
+	db "Player@"
 
 .EmptyString:
 	db "@"
@@ -47,7 +47,7 @@ PlaceDiplomaOnScreen: ; 1dd709
 	db   "This certifies"
 	next "that you have"
 	next "completed the"
-	next "new #DEX."
+	next "new #dex."
 	next "Congratulations!"
 	db   "@"
 ; 1dd7ae
@@ -79,8 +79,8 @@ PrintDiplomaPage2: ; 1dd7ae
 	ret
 ; 1dd7f0
 
-.PlayTime: db "PLAY TIME@"
-.GameFreak: db "GAME FREAK@"
+.PlayTime: db "Play Time@"
+.GameFreak: db "Game Freak@"
 ; 1dd805
 
 DiplomaGFX: ; 1dd805

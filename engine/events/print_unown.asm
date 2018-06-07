@@ -197,20 +197,20 @@ _UnownPrinter: ; 16be4
 ; 16d57
 
 AlphRuinsStampString:
-	db " ALPH RUINS STAMP@"
+	db " Alph Ruins Stamp@"
 
 UnownDexDoWhatString:
 	db "Do what?@"
 
 UnownDexMenuString:
-	db   "♂ PRINT"
-	next "♀ CANCEL"
-	next "← PREVIOUS"
-	next "→ NEXT"
+	db   "♂ Print"
+	next "♀ Cancel"
+	next "← Previous"
+	next "→ Next"
 	db   "@"
 
 UnownDexVacantString:
-	db "VACANT@"
+	db "Vacant@"
 ; 16d9c
 
 UnownDexATile: ; 16d9c

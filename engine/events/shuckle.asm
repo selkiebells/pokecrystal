@@ -67,9 +67,9 @@ GiveShuckle: ; 7305
 	ret
 
 SpecialShuckleOT:
-	db "MANIA@"
+	db "Mania@"
 SpecialShuckleNick:
-	db "SHUCKIE@"
+	db "Shuckie@"
 
 ReturnShuckle: ; 737e
 	farcall SelectMonFromParty

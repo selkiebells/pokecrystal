@@ -91,6 +91,6 @@ _GiveOddEgg: ; 1fb4b6
 ; 1fb546
 
 .Odd:
-	db "ODD@@@@@@@@@"
+	db "Odd@@@@@@@@@"
 
 INCLUDE "data/events/odd_eggs.asm"

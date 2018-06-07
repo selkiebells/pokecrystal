@@ -712,19 +712,19 @@ UnknownText_0x16694: ; 0x16694
 ; 0x16699
 
 Mom_SavedString: ; 16699
-	db "SAVED@"
+	db "Saved@"
 ; 1669f
 
 Mon_WithdrawString: ; 1669f
-	db "WITHDRAW@"
+	db "Withdraw@"
 ; 166a8
 
 Mom_DepositString: ; 166a8
-	db "DEPOSIT@"
+	db "Deposit@"
 ; 166b0
 
 Mom_HeldString: ; 166b0
-	db "HELD@"
+	db "Held@"
 ; 166b5
 
 MenuHeader_0x166b5: ; 0x166b5
@@ -737,8 +737,8 @@ MenuHeader_0x166b5: ; 0x166b5
 MenuData_0x166bd: ; 0x166bd
 	db STATICMENU_CURSOR ; flags
 	db 4 ; items
-	db "GET@"
-	db "SAVE@"
-	db "CHANGE@"
-	db "CANCEL@"
+	db "Get@"
+	db "Save@"
+	db "Change@"
+	db "Cancel@"
 ; 0x166d6

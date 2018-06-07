@@ -47,10 +47,10 @@ PokemonCenterPC: ; 1559a
 	dw TurnOffPC, .String_TurnOff
 
 .String_PlayersPC:  db "<PLAYER>'s PC@"
-.String_BillsPC:    db "BILL's PC@"
-.String_OaksPC:     db "PROF.OAK's PC@"
-.String_HallOfFame: db "HALL OF FAME@"
-.String_TurnOff:    db "TURN OFF@"
+.String_BillsPC:    db "Bill's PC@"
+.String_OaksPC:     db "Prof.Oak's PC@"
+.String_HallOfFame: db "Hall of Fame@"
+.String_TurnOff:    db "Turn Off@"
 
 .WhichPC:
 	; before pokedex
@@ -253,13 +253,13 @@ PlayersPCMenuData: ; 0x15736
 	dw PlayerLogOffMenu,       .LogOff
 	dw PlayerLogOffMenu,       .TurnOff
 
-.WithdrawItem: db "WITHDRAW ITEM@"
-.DepositItem:  db "DEPOSIT ITEM@"
-.TossItem:     db "TOSS ITEM@"
-.MailBox:      db "MAIL BOX@"
-.Decoration:   db "DECORATION@"
-.TurnOff:      db "TURN OFF@"
-.LogOff:       db "LOG OFF@"
+.WithdrawItem: db "Withdraw Item@"
+.DepositItem:  db "Deposit Item@"
+.TossItem:     db "Toss Item@"
+.MailBox:      db "Mail Box@"
+.Decoration:   db "Decoration@"
+.TurnOff:      db "Turn Off@"
+.LogOff:       db "Log Off@"
 
 WITHDRAW_ITEM EQU 0
 DEPOSIT_ITEM  EQU 1
