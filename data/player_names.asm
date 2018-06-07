@@ -8,14 +8,14 @@ ChrisNameMenuHeader: ; 882b5
 .MaleNames: ; 882be
 	db STATICMENU_CURSOR | STATICMENU_PLACE_TITLE | STATICMENU_DISABLE_B ; flags
 	db 5 ; items
-	db "NEW NAME@"
+	db "New Name@"
 MalePlayerNameArray: ; 882c9
-	db "CHRIS@"
-	db "MAT@"
-	db "ALLAN@"
-	db "JON@"
+	db "Gold@"
+	db "Ethan@"
+	db "Jimmy@"
+	db "Chris@"
 	db 2 ; displacement
-	db " NAME @" ; title
+	db " Name @" ; title
 
 KrisNameMenuHeader: ; 882e5
 	db MENU_BACKUP_TILES ; flags
@@ -27,11 +27,11 @@ KrisNameMenuHeader: ; 882e5
 .FemaleNames: ; 882ee
 	db STATICMENU_CURSOR | STATICMENU_PLACE_TITLE | STATICMENU_DISABLE_B ; flags
 	db 5 ; items
-	db "NEW NAME@"
+	db "New Name@"
 FemalePlayerNameArray: ; 882f9
-	db "KRIS@"
-	db "AMANDA@"
-	db "JUANA@"
-	db "JODI@"
+	db "Crystal@"
+	db "Kris@"
+	db "Lyra@"
+	db "Marina@"
 	db 2 ; displacement
-	db " NAME @" ; title
+	db " Name @" ; title

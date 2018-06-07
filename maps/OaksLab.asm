@@ -120,9 +120,9 @@ OakOpenMtSilverText:
 
 	para "arrangements so"
 	line "that you can go to"
-	cont "MT.Silver."
+	cont "Mt.Silver."
 
-	para "MT.Silver is a big"
+	para "Mt.Silver is a big"
 	line "mountain that is"
 
 	para "home to many wild"
@@ -141,7 +141,7 @@ OakOpenMtSilverText:
 	para "Go up to Indigo"
 	line "Plateau. You can"
 
-	para "reach MT.Silver"
+	para "reach Mt.Silver"
 	line "from there."
 	done
 
@@ -196,7 +196,7 @@ OaksAssistant1Text:
 OaksAssistant2Text:
 	text "Thanks to your"
 	line "work on the #-"
-	cont "Dex, the Prof's"
+	cont "dex, the Prof's"
 
 	para "research is coming"
 	line "along great."

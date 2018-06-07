@@ -171,8 +171,8 @@ Pack: ; 10000
 .MenuData_1: ; 0x1012c
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 2 ; items
-	db "USE@"
-	db "QUIT@"
+	db "Use@"
+	db "Quit@"
 ; 0x10137
 
 .Jumptable1: ; 10137
@@ -191,9 +191,9 @@ Pack: ; 10000
 .MenuData_2: ; 0x10143
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 3 ; items
-	db "USE@"
-	db "GIVE@"
-	db "QUIT@"
+	db "Use@"
+	db "Give@"
+	db "Quit@"
 ; 0x10153
 
 .Jumptable2: ; 10153
@@ -330,11 +330,11 @@ MenuHeader_UsableKeyItem: ; 0x10249
 .MenuData: ; 0x10251
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 5 ; items
-	db "USE@"
-	db "GIVE@"
-	db "TOSS@"
-	db "SEL@"
-	db "QUIT@"
+	db "Use@"
+	db "Give@"
+	db "Toss@"
+	db "Sel@"
+	db "Quit@"
 ; 0x1026a
 
 Jumptable_UseGiveTossRegisterQuit: ; 1026a
@@ -355,10 +355,10 @@ MenuHeader_UsableItem: ; 0x10274
 .MenuData: ; 0x1027c
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 4 ; items
-	db "USE@"
-	db "GIVE@"
-	db "TOSS@"
-	db "QUIT@"
+	db "Use@"
+	db "Give@"
+	db "Toss@"
+	db "Quit@"
 ; 0x10291
 
 Jumptable_UseGiveTossQuit: ; 10291
@@ -378,8 +378,8 @@ MenuHeader_UnusableItem: ; 0x10299
 .MenuData: ; 0x102a1
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 2 ; items
-	db "USE@"
-	db "QUIT@"
+	db "Use@"
+	db "Quit@"
 ; 0x102ac
 
 Jumptable_UseQuit: ; 102ac
@@ -397,9 +397,9 @@ MenuHeader_UnusableKeyItem: ; 0x102b0
 .MenuData: ; 0x102b8
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 3 ; items
-	db "USE@"
-	db "SEL@"
-	db "QUIT@"
+	db "Use@"
+	db "Sel@"
+	db "Quit@"
 ; 0x102c7
 
 Jumptable_UseRegisterQuit: ; 102c7
@@ -418,10 +418,10 @@ MenuHeader_HoldableKeyItem: ; 0x102cd
 .MenuData: ; 0x102d5
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 4 ; items
-	db "GIVE@"
-	db "TOSS@"
-	db "SEL@"
-	db "QUIT@"
+	db "Give@"
+	db "Toss@"
+	db "Sel@"
+	db "Quit@"
 ; 0x102ea
 
 Jumptable_GiveTossRegisterQuit: ; 102ea
@@ -441,9 +441,9 @@ MenuHeader_HoldableItem: ; 0x102f2
 .MenuData: ; 0x102fa
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 3 ; items
-	db "GIVE@"
-	db "TOSS@"
-	db "QUIT@"
+	db "Give@"
+	db "Toss@"
+	db "Quit@"
 ; 0x1030b
 
 Jumptable_GiveTossQuit: ; 1030b
@@ -857,8 +857,8 @@ TMHMSubmenu: ; 105dc (4:45dc)
 .UsableMenuData: ; 0x10609
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 2 ; items
-	db "USE@"
-	db "QUIT@"
+	db "Use@"
+	db "Quit@"
 ; 0x10614
 
 .UsableJumptable: ; 10614
@@ -876,7 +876,7 @@ TMHMSubmenu: ; 105dc (4:45dc)
 .UnusableMenuData: ; 0x10620
 	db STATICMENU_CURSOR | STATICMENU_NO_TOP_SPACING ; flags
 	db 1 ; items
-	db "QUIT@"
+	db "Quit@"
 ; 0x10627
 
 .UnusableJumptable: ; 10627

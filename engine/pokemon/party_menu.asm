@@ -119,7 +119,7 @@ PlacePartyNicknames: ; 5009b
 ; 500c8
 
 .CANCEL: ; 500c8
-	db "CANCEL@"
+	db "Cancel@"
 ; 500cf
 
 
@@ -359,11 +359,11 @@ PlacePartyMonTMHMCompatibility: ; 501e0
 ; 50221
 
 .string_able ; 50221
-	db "ABLE@"
+	db "Able@"
 ; 50226
 
 .string_not_able ; 50226
-	db "NOT ABLE@"
+	db "Not Able@"
 ; 5022f
 
 
@@ -444,10 +444,10 @@ PlacePartyMonEvoStoneCompatibility: ; 5022f
 ; 502a3
 
 .string_able ; 502a3
-	db "ABLE@"
+	db "Able@"
 ; 502a8
 .string_not_able ; 502a8
-	db "NOT ABLE@"
+	db "Not Able@"
 ; 502b1
 
 
@@ -492,15 +492,15 @@ PlacePartyMonGender: ; 502b1
 ; 502ee
 
 .male ; 502ee
-	db "♂…MALE@"
+	db "♂…Male@"
 ; 502f5
 
 .female ; 502f5
-	db "♀…FEMALE@"
+	db "♀…Female@"
 ; 502fe
 
 .unknown ; 502fe
-	db "…UNKNOWN@"
+	db "…Unknown@"
 ; 50307
 
 
@@ -799,7 +799,7 @@ PartyMenuStrings: ; 0x504d2
 	dw ToWhichPKMNString
 
 ChooseAMonString: ; 0x504e4
-	db "Choose a #MON.@"
+	db "Choose a #mon.@"
 
 UseOnWhichPKMNString: ; 0x504f3
 	db "Use on which <PK><MN>?@"

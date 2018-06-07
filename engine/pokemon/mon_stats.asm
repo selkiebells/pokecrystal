@@ -114,11 +114,11 @@ PrintTempMonStats: ; 50b7b
 	ret
 
 .StatNames: ; 50bb5
-	db   "ATTACK"
-	next "DEFENSE"
-	next "SPCL.ATK"
-	next "SPCL.DEF"
-	next "SPEED"
+	db   "Attack"
+	next "Defense"
+	next "Spcl.Atk"
+	next "Spcl.Def"
+	next "Speed"
 	next "@"
 
 GetGender: ; 50bdd

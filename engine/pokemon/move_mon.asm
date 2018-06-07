@@ -1229,7 +1229,7 @@ GiveEgg:: ; df8c
 ; e035
 
 String_Egg: ; e035
-	db "EGG@"
+	db "Egg@"
 ; e039
 
 RemoveMonFromPartyOrBox: ; e039
